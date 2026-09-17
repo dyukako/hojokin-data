@@ -44,6 +44,7 @@ PAGES_FAILED = ROOT / "pages_failed.json"
 UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
       "(KHTML, like Gecko) Chrome/120.0 Safari/537.36 hojokin-collector/15")
 WAIT_SEC = 1.0
+WAIT_304_SEC = 0.3          # 変わっていないページ（304）のときの待ち
 RETRY_WAIT = (3, 10)
 MAX_PAGES_PER_SOURCE = 400      # 入口1つあたりの上限。超えたら scope が広すぎる
 MAX_BYTES = 8 * 1024 * 1024     # PDF等の上限
@@ -55,19 +56,41 @@ class FetchError(Exception):
     pass
 
 
-def fetch(url):
+class NotModified(Exception):
+    pass
+
+
+def fetch(url, etag="", last_modified=""):
+    """成功すれば (本文, Content-Type, 最終URL, ETag, Last-Modified)。
+    前回の ETag / Last-Modified を渡すと、変わっていなければ NotModified を投げる（本文は送られてこない）。
+    3回失敗したら FetchError。"""
     last = ""
     for attempt, wait in enumerate(RETRY_WAIT + (None,), 1):
         try:
-            req = urllib.request.Request(url, headers={"User-Agent": UA, "Accept": "text/html,application/pdf,*/*;q=0.8"})
-            with urllib.request.urlopen(req, timeout=40) as res:
-                ctype = (res.headers.get("Content-Type") or "").lower()
-                body = res.read(MAX_BYTES + 1)
-                final = res.geturl()
+            headers = {"User-Agent": UA, "Accept": "text/html,application/pdf,*/*;q=0.8"}
+            if etag:
+                headers["If-None-Match"] = etag
+            if last_modified:
+                headers["If-Modified-Since"] = last_modified
+            req = urllib.request.Request(url, headers=headers)
+            try:
+                with urllib.request.urlopen(req, timeout=40) as res:
+                    ctype = (res.headers.get("Content-Type") or "").lower()
+                    body = res.read(MAX_BYTES + 1)
+                    final = res.geturl()
+                    new_etag = res.headers.get("ETag") or ""
+                    new_lm = res.headers.get("Last-Modified") or ""
+            except urllib.error.HTTPError as e:
+                if e.code == 304:
+                    time.sleep(WAIT_304_SEC)
+                    raise NotModified()
+                raise
             if len(body) > MAX_BYTES:
                 raise FetchError("サイズ上限超え")
             time.sleep(WAIT_SEC)
-            return body, ctype, final
+            return body, ctype, final, new_etag, new_lm
+        except NotModified:
+            raise
         except (urllib.error.URLError, urllib.error.HTTPError, TimeoutError, OSError, FetchError) as e:
             last = str(e)
             if wait is None:
@@ -125,7 +148,7 @@ def save(path, data):
     path.write_text(json.dumps(data, ensure_ascii=False, indent=1, sort_keys=True), encoding="utf-8")
 
 
-def crawl_source(area, src, index, failed, today):
+def crawl_source(area, src, index, failed, today, seen_keys):
     entry = src["url"]
     scopes = src.get("scope", [entry])
     depth_max = int(src.get("depth", 1))
@@ -133,13 +156,31 @@ def crawl_source(area, src, index, failed, today):
     seen = {norm(entry)}
     queue = [(entry, 0, None)]
     got = 0
+    unchanged = 0
     outdir = PAGES / area
     outdir.mkdir(parents=True, exist_ok=True)
 
     while queue and got < MAX_PAGES_PER_SOURCE:
         url, depth, parent = queue.pop(0)
+        k = key_of(url)
+        prev = index.get(k) if index.get(k, {}).get("地域") == area else None
         try:
-            body, ctype, final = fetch(url)
+            body, ctype, final, etag, lm = fetch(url, prev.get("etag", "") if prev else "",
+                                                 prev.get("last_modified", "") if prev else "")
+        except NotModified:
+            # 前回から変わっていない。ファイルはそのまま、前回拾ったリンクで先へ進む
+            prev["fetched_at"] = today
+            prev["depth"] = min(prev.get("depth", depth), depth)
+            seen_keys.add(k)
+            got += 1
+            unchanged += 1
+            if prev["type"] == "html" and depth < depth_max:
+                for u in prev.get("links", []):
+                    n = norm(u)
+                    if n not in seen:
+                        seen.add(n)
+                        queue.append((u, depth + 1, url))
+            continue
         except FetchError as e:
             failed.append({"地域": area, "入口": src["name"], "url": url, "depth": depth, "error": str(e),
                            "入口自体": depth == 0})
@@ -149,7 +190,7 @@ def crawl_source(area, src, index, failed, today):
         is_pdf = "pdf" in ctype or body[:5] == b"%PDF-"
         if not (is_html or is_pdf):
             continue
-        k = key_of(url)
+        links = []
         if is_pdf:
             (outdir / f"{k}.pdf.gz").write_bytes(gzip.compress(body))
             title = ""
@@ -159,27 +200,29 @@ def crawl_source(area, src, index, failed, today):
             title = re.sub(r"\s+", " ", m.group(1)).strip() if m else ""
             with gzip.open(outdir / f"{k}.html.gz", "wt", encoding="utf-8") as f:
                 f.write(slim(html))
+            # 次回304のときに使うため、たどる対象のリンクだけ控える
+            for u in links_of(html, final):
+                if in_scope(u, scopes) or (ext_ok and depth == 0 and not same_site(u, entry)):
+                    links.append(u)
         index[k] = {"url": url, "final_url": final, "地域": area, "入口": src["name"], "depth": depth,
-                    "title": title, "type": "pdf" if is_pdf else "html", "parent": parent, "fetched_at": today}
+                    "title": title, "type": "pdf" if is_pdf else "html", "parent": parent, "fetched_at": today,
+                    "etag": etag, "last_modified": lm, "links": links}
+        seen_keys.add(k)
         got += 1
 
         if is_pdf or depth >= depth_max:
             continue
-        for u in links_of(html, final):
+        for u in links:
             n = norm(u)
             if n in seen:
                 continue
-            if in_scope(u, scopes):
-                seen.add(n)
-                queue.append((u, depth + 1, url))
-            elif ext_ok and depth == 0 and not same_site(u, entry):
-                # 入口から直接リンクされた外部ページだけ（1階層）。そこから先は追わない
-                seen.add(n)
-                queue.append((u, depth_max, url))
+            seen.add(n)
+            # 入口から直接リンクされた外部ページは1階層だけ（そこから先は追わない）
+            queue.append((u, depth + 1 if in_scope(u, scopes) else depth_max, url))
     if got >= MAX_PAGES_PER_SOURCE:
         print(f"  !! {src['name']}: 上限{MAX_PAGES_PER_SOURCE}ページに達した。scope が広すぎる", flush=True)
         failed.append({"地域": area, "入口": src["name"], "url": entry, "error": "ページ数上限", "入口自体": False})
-    return got
+    return got, unchanged
 
 
 def main():
@@ -195,24 +238,32 @@ def main():
     started = time.time()
     counts = {}
 
+    unchanged_total = 0
     for area, srcs in sources.items():
         if area.startswith("_") or (args.area and area != args.area):
             continue
-        # その地域の前回分は捨てて取り直す（消えたページを残さないため）
-        for k in [k for k, v in index.items() if v.get("地域") == area]:
-            index.pop(k)
-        for f in (PAGES / area).glob("*.gz") if (PAGES / area).exists() else []:
-            f.unlink()
+        seen_keys = set()
         counts[area] = 0
         for src in srcs:
             print(f"[{area}] {src['name']}", flush=True)
-            n = crawl_source(area, src, index, failed, today)
+            n, unch = crawl_source(area, src, index, failed, today, seen_keys)
             counts[area] += n
-            print(f"  {n}ページ", flush=True)
+            unchanged_total += unch
+            print(f"  {n}ページ（うち前回から変わらず {unch}）", flush=True)
+        # この地域で今回たどり着かなかったページは、消えたか入口から外れたので落とす
+        gone = [k for k, v in index.items() if v.get("地域") == area and k not in seen_keys]
+        for k in gone:
+            v = index.pop(k)
+            f = PAGES / area / (f"{k}.pdf.gz" if v.get("type") == "pdf" else f"{k}.html.gz")
+            if f.exists():
+                f.unlink()
+        if gone:
+            print(f"  {area}: 前回あって今回たどり着かなかった {len(gone)} ページを削除", flush=True)
         save(PAGES_INDEX, index)
 
     entry_fail = [f for f in failed if f.get("入口自体")]
-    meta.update({"最終実行": today, "地域別ページ数": counts, "失敗": len(failed), "入口の失敗": len(entry_fail),
+    meta.update({"最終実行": today, "地域別ページ数": counts, "前回から変わらず": unchanged_total,
+                 "失敗": len(failed), "入口の失敗": len(entry_fail),
                  "所要秒": int(time.time() - started)})
     save(PAGES_META, meta)
     save(PAGES_FAILED, failed)

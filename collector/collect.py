@@ -41,9 +41,11 @@ ARTICLES = ROOT / "articles"
 INDEX = ROOT / "index.json"
 META = ROOT / "meta.json"
 FAILED = ROOT / "failed.json"
+DEBUG = ROOT / "debug"
 
 BASE = "https://j-net21.smrj.go.jp/snavi2/results.php"
-ARTICLE_RE = re.compile(r"/snavi2/articles/(\d+)")
+# href の書き方が絶対でも相対でも拾う（"/snavi2/articles/123" "articles/123" "./articles/123"）
+ARTICLE_RE = re.compile(r"""href\s*=\s*["'][^"']*?articles/(\d+)""", re.I)
 
 # GAS版と同じ検索条件：カテゴリ「補助金・助成金・融資」の種類「補助金・助成金」だけ
 LIST_QUERY = {
@@ -182,6 +184,15 @@ def main():
                 break
             ids = article_ids(html)
             pages_read += 1
+            if page == 1 and not ids:
+                # 読めたのに記事リンクが1つも無い＝ページの形が想定と違う。
+                # 黙って0件で終わらせず、HTMLを残して失敗にする
+                DEBUG.mkdir(exist_ok=True)
+                (DEBUG / f"list_{code}_p1.html").write_text(html, encoding="utf-8")
+                failed["lists"].append({"地域": label, "page": 1,
+                                        "error": "記事リンクが見つからない（debug/ にHTMLを保存）"})
+                print(f"  !! {label} 1ページ目に記事リンクが無い。debug/list_{code}_p1.html を保存", flush=True)
+                break
             if not ids or ids == prev_ids:
                 break                      # 最後のページを越えた
             prev_ids = ids

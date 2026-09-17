@@ -31,3 +31,17 @@ bash scripts/fetch_repo.sh repo
 python3 scripts/build_dataset.py repo --pref 島根県 -o data/
 python3 scripts/parse_sheet.py data/補助金_全国.json data/補助金_島根県.json -o out/
 ```
+
+## 県・市・商工会議所のページ（J-Net21 に載らない制度のため）
+
+```
+sources.json                    入口ページの登録（県・市ごと）。個別の補助金ページは登録しない
+.github/workflows/pages.yml     毎週月曜 06:00 JST に collector/crawl_pages.py を実行してコミット
+collector/crawl_pages.py        入口から同じサイト内を depth 階層までたどり、pages/<地域>/ に生のまま保存
+pages_index.json / pages_meta.json / pages_failed.json
+```
+
+新しい県・市の案件が来たら、`sources.json` にその県・市の入口（県の中小企業支援課、市の商工課、管轄商工会議所の補助金ページ）を足して、
+Actions の「県・市ページ収集」を Run workflow（area にその地域名）。入口ページが取れないときだけジョブが赤になる。
+2回目以降は、前回から変わっていないページは本文を取り直さない（HTTP の条件付き取得。ETag / Last-Modified を index に控える）ので、
+毎週の実行は初回より大幅に短い。前回あって今回たどり着かなかったページは消える。

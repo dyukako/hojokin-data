@@ -1,21 +1,67 @@
 {
  "_説明": "J-Net21に載らない県・市・商工会議所の制度を拾うための入口ページ。個別の補助金ページは登録しない（毎年URLが変わる）。collector/crawl_pages.py がここから同じサイト内を depth 階層までたどって pages/ に生のまま保存する。follow_external=true の入口は、外部サイトへのリンクも1階層だけ追う（商工会議所のまとめページなど、県・市・国の制度へ直接リンクしているページ向け）。",
  "島根県": [
-  {"name": "島根県 中小企業支援（目的別メニュー）", "url": "https://www.pref.shimane.lg.jp/industry/syoko/sangyo/chusho/", "depth": 2,
-   "scope": ["https://www.pref.shimane.lg.jp/industry/syoko/", "https://www.pref.shimane.lg.jp/keieishien/"]},
-  {"name": "島根県 中小企業課（新着）", "url": "https://www.pref.shimane.lg.jp/keieishien/", "depth": 2,
-   "scope": ["https://www.pref.shimane.lg.jp/industry/syoko/", "https://www.pref.shimane.lg.jp/keieishien/"]},
-  {"name": "島根県 雇用・人材育成の助成", "url": "https://www.pref.shimane.lg.jp/industry/employ/", "depth": 2,
-   "scope": ["https://www.pref.shimane.lg.jp/industry/employ/"]},
-  {"name": "しまね産業振興財団 公募・助成金", "url": "https://www.joho-shimane.or.jp/news/wanted_subsidy", "depth": 1,
-   "scope": ["https://www.joho-shimane.or.jp/"]}
+  {
+   "name": "島根県 中小企業支援（目的別メニュー）",
+   "url": "https://www.pref.shimane.lg.jp/industry/syoko/sangyo/chusho/",
+   "depth": 2,
+   "scope": [
+    "https://www.pref.shimane.lg.jp/industry/syoko/",
+    "https://www.pref.shimane.lg.jp/keieishien/"
+   ]
+  },
+  {
+   "name": "島根県 中小企業課（新着）",
+   "url": "https://www.pref.shimane.lg.jp/keieishien/",
+   "depth": 2,
+   "scope": [
+    "https://www.pref.shimane.lg.jp/industry/syoko/sangyo/chusho/",
+    "https://www.pref.shimane.lg.jp/keieishien/"
+   ]
+  },
+  {
+   "name": "島根県 雇用・人材育成の助成",
+   "url": "https://www.pref.shimane.lg.jp/industry/employ/",
+   "depth": 1,
+   "scope": [
+    "https://www.pref.shimane.lg.jp/industry/employ/"
+   ]
+  },
+  {
+   "name": "しまね産業振興財団 公募・助成金",
+   "url": "https://www.joho-shimane.or.jp/solution/subsidy/",
+   "depth": 1,
+   "scope": [
+    "https://www.joho-shimane.or.jp/solution/subsidy/",
+    "https://www.joho-shimane.or.jp/purpose/"
+   ]
+  }
  ],
  "出雲市": [
-  {"name": "出雲市 中小企業等への支援", "url": "https://www.city.izumo.shimane.jp/www/genre/1409018878866/index.html", "depth": 2,
-   "scope": ["https://www.city.izumo.shimane.jp/www/"]},
-  {"name": "出雲市 商工振興課 情報一覧", "url": "https://www.city.izumo.shimane.jp/www/section/1364600170639/index.html", "depth": 1,
-   "scope": ["https://www.city.izumo.shimane.jp/www/"]},
-  {"name": "出雲商工会議所 補助金・助成金（国・県・市のまとめ）", "url": "https://www.izmcci.or.jp/consultation/subsidy", "depth": 1,
-   "scope": ["https://www.izmcci.or.jp/consultation/"], "follow_external": true}
+  {
+   "name": "出雲市 中小企業等への支援",
+   "url": "https://www.city.izumo.shimane.jp/www/genre/1409018878866/index.html",
+   "depth": 1,
+   "scope": [
+    "https://www.city.izumo.shimane.jp/www/"
+   ]
+  },
+  {
+   "name": "出雲市 商工振興課 情報一覧",
+   "url": "https://www.city.izumo.shimane.jp/www/section/1364600170639/index.html",
+   "depth": 1,
+   "scope": [
+    "https://www.city.izumo.shimane.jp/www/"
+   ]
+  },
+  {
+   "name": "出雲商工会議所 補助金・助成金（国・県・市のまとめ）",
+   "url": "https://www.izmcci.or.jp/consultation/subsidy",
+   "depth": 1,
+   "scope": [
+    "https://www.izmcci.or.jp/consultation/"
+   ],
+   "follow_external": true
+  }
  ]
 }

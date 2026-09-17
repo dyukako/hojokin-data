@@ -1,0 +1,53 @@
+name: 県・市ページ収集
+
+on:
+  schedule:
+    - cron: '0 21 * * 0'   # 毎週月曜 06:00 JST
+  workflow_dispatch:
+    inputs:
+      area:
+        description: '地域を1つに絞る（空なら sources.json の全地域）'
+        default: ''
+
+permissions:
+  contents: write
+
+concurrency:
+  group: collect
+  cancel-in-progress: false
+
+jobs:
+  pages:
+    runs-on: ubuntu-latest
+    timeout-minutes: 300
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: 収集
+        id: run
+        continue-on-error: true
+        run: python collector/crawl_pages.py --area "${{ github.event.inputs.area || '' }}"
+
+      - name: コミット（途中まででも残す）
+        run: |
+          git config user.name  'hojokin-bot'
+          git config user.email 'hojokin-bot@users.noreply.github.com'
+          for p in pages pages_index.json pages_meta.json pages_failed.json; do
+            [ -e "$p" ] && git add -A "$p"
+          done
+          if git diff --cached --quiet; then
+            echo "変更なし"
+          else
+            git commit -m "県・市ページ収集 $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git push
+            echo "コミット済み: $(git rev-parse --short HEAD)"
+          fi
+
+      - name: 入口ページが取れなければ失敗にする
+        if: steps.run.outcome == 'failure'
+        run: |
+          cat pages_failed.json 2>/dev/null || true
+          exit 1

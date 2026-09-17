@@ -1,0 +1,42 @@
+[
+ {
+  "depth": 2,
+  "error": "サイズ上限超え",
+  "url": "https://www.pref.shimane.lg.jp/industry/syoko/sangyo/chusho/setsumeikai.data/setumeisiryou.pdf",
+  "入口": "島根県 中小企業課（新着）",
+  "入口自体": false,
+  "地域": "島根県"
+ },
+ {
+  "depth": 1,
+  "error": "<urlopen error timed out>",
+  "url": "https://hoken.jcci.or.jp/",
+  "入口": "出雲商工会議所 補助金・助成金（国・県・市のまとめ）",
+  "入口自体": false,
+  "地域": "出雲市"
+ },
+ {
+  "depth": 1,
+  "error": "<urlopen error timed out>",
+  "url": "http://www.smrj.go.jp/kyosai/skyosai/index.html",
+  "入口": "出雲商工会議所 補助金・助成金（国・県・市のまとめ）",
+  "入口自体": false,
+  "地域": "出雲市"
+ },
+ {
+  "depth": 1,
+  "error": "<urlopen error timed out>",
+  "url": "http://www.smrj.go.jp/kyosai/tkyosai/index.html",
+  "入口": "出雲商工会議所 補助金・助成金（国・県・市のまとめ）",
+  "入口自体": false,
+  "地域": "出雲市"
+ },
+ {
+  "depth": 1,
+  "error": "HTTP Error 404: Not Found",
+  "url": "https://www.izmcci.or.jp/consultation/empty_rooms",
+  "入口": "出雲商工会議所 補助金・助成金（国・県・市のまとめ）",
+  "入口自体": false,
+  "地域": "出雲市"
+ }
+]

@@ -8,6 +8,14 @@
   "地域": "島根県"
  },
  {
+  "depth": 2,
+  "error": "サイズ上限超え",
+  "url": "https://www.pref.shimane.lg.jp/industry/syoko/sangyo/yuushi/kitei.data/R8kiteishu.pdf",
+  "入口": "島根県 中小企業課（新着）",
+  "入口自体": false,
+  "地域": "島根県"
+ },
+ {
   "depth": 1,
   "error": "<urlopen error timed out>",
   "url": "https://hoken.jcci.or.jp/",

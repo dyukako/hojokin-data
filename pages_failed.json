@@ -46,5 +46,28 @@
   "入口": "出雲商工会議所 補助金・助成金（国・県・市のまとめ）",
   "入口自体": false,
   "地域": "出雲市"
+ },
+ {
+  "depth": 1,
+  "error": "HTTP Error 404: Not Found",
+  "url": "https://www.tokyo-kosha.or.jp/support/josei/jigyo/chiiki.html",
+  "入口": "東京都中小企業振興公社 助成金一覧",
+  "入口自体": false,
+  "地域": "東京都"
+ },
+ {
+  "depth": 2,
+  "error": "HTTP Error 404: Not Found",
+  "url": "https://www.tokyo-kosha.or.jp/support/josei/kigyo/28jisedai.html",
+  "入口": "東京都中小企業振興公社 助成金一覧",
+  "入口自体": false,
+  "地域": "東京都"
+ },
+ {
+  "error": "ページ数上限",
+  "url": "https://www.tokyo-kosha.or.jp/support/josei/index.html",
+  "入口": "東京都中小企業振興公社 助成金一覧",
+  "入口自体": false,
+  "地域": "東京都"
  }
 ]

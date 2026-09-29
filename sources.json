@@ -63,5 +63,57 @@
    ],
    "follow_external": true
   }
+ ],
+ "東京都": [
+  {
+   "name": "東京都中小企業振興公社 助成金一覧",
+   "url": "https://www.tokyo-kosha.or.jp/support/josei/index.html",
+   "depth": 2,
+   "scope": [
+    "https://www.tokyo-kosha.or.jp/support/"
+   ]
+  },
+  {
+   "name": "東京都産業労働局 商工・助成",
+   "url": "https://www.sangyo-rodo.metro.tokyo.lg.jp/chushou/shoko/jyosei",
+   "depth": 1,
+   "scope": [
+    "https://www.sangyo-rodo.metro.tokyo.lg.jp/chushou/"
+   ]
+  }
+ ],
+ "調布市": [
+  {
+   "name": "調布市 融資・助成",
+   "url": "https://www.city.chofu.lg.jp/sangyou/sangyoushinkou/yuushi/index.html",
+   "depth": 2,
+   "scope": [
+    "https://www.city.chofu.lg.jp/sangyou/"
+   ]
+  },
+  {
+   "name": "調布市産業労働支援センター",
+   "url": "https://chofu-industry.jp/",
+   "depth": 2,
+   "scope": [
+    "https://chofu-industry.jp/"
+   ]
+  },
+  {
+   "name": "調布市商工会 助成事業",
+   "url": "https://www.chofusci.com/aboutus/management/subsidy",
+   "depth": 1,
+   "scope": [
+    "https://www.chofusci.com/aboutus/"
+   ]
+  },
+  {
+   "name": "調布市商工会 トピックス",
+   "url": "https://www.chofusci.com/topics",
+   "depth": 1,
+   "scope": [
+    "https://www.chofusci.com/archives/"
+   ]
+  }
  ]
 }

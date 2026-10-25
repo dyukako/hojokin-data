@@ -48,26 +48,11 @@
   "地域": "出雲市"
  },
  {
-  "depth": 1,
-  "error": "HTTP Error 404: Not Found",
-  "url": "https://www.tokyo-kosha.or.jp/support/josei/jigyo/chiiki.html",
-  "入口": "東京都中小企業振興公社 助成金一覧",
-  "入口自体": false,
-  "地域": "東京都"
- },
- {
-  "depth": 2,
-  "error": "HTTP Error 404: Not Found",
-  "url": "https://www.tokyo-kosha.or.jp/support/josei/kigyo/28jisedai.html",
-  "入口": "東京都中小企業振興公社 助成金一覧",
-  "入口自体": false,
-  "地域": "東京都"
- },
- {
-  "error": "ページ数上限",
+  "depth": 0,
+  "error": "HTTP Error 502: Bad Gateway",
   "url": "https://www.tokyo-kosha.or.jp/support/josei/index.html",
   "入口": "東京都中小企業振興公社 助成金一覧",
-  "入口自体": false,
+  "入口自体": true,
   "地域": "東京都"
  }
 ]

@@ -48,7 +48,7 @@ UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
 WAIT_SEC = 1.0
 WAIT_304_SEC = 0.3          # 変わっていないページ（304）のときの待ち
 RETRY_WAIT = (3, 10)
-MAX_PAGES_PER_SOURCE = 400      # 入口1つあたりの上限。超えたら scope が広すぎる
+MAX_PAGES_PER_SOURCE = 400      # 入口1つあたりの上限。超えたら scope が広すぎる。入口ごとに max_pages で変えられる
 MAX_BYTES = 8 * 1024 * 1024     # PDF等の上限
 SKIP_EXT = re.compile(r"\.(jpe?g|png|gif|svg|webp|ico|css|js|zip|xlsx?|docx?|pptx?|mp4|mp3)(\?|$)", re.I)
 STRIP_TAGS = ("script", "style", "noscript", "iframe")
@@ -161,6 +161,7 @@ def crawl_source(area, src, index, failed, today, seen_keys):
     depth_max = int(src.get("depth", 1))
     ext_ok = bool(src.get("follow_external", False))
     excludes = src.get("exclude", [])
+    max_pages = int(src.get("max_pages", MAX_PAGES_PER_SOURCE))
     seen = {norm(entry)}
     queue = [(entry, 0, None)]
     got = 0
@@ -168,7 +169,7 @@ def crawl_source(area, src, index, failed, today, seen_keys):
     outdir = PAGES / area
     outdir.mkdir(parents=True, exist_ok=True)
 
-    while queue and got < MAX_PAGES_PER_SOURCE:
+    while queue and got < max_pages:
         url, depth, parent = queue.pop(0)
         k = key_of(url)
         prev = index.get(k) if index.get(k, {}).get("地域") == area else None
@@ -229,8 +230,8 @@ def crawl_source(area, src, index, failed, today, seen_keys):
             seen.add(n)
             # 入口から直接リンクされた外部ページは1階層だけ（そこから先は追わない）
             queue.append((u, depth + 1 if in_scope(u, scopes) else depth_max, url))
-    if got >= MAX_PAGES_PER_SOURCE:
-        print(f"  !! {src['name']}: 上限{MAX_PAGES_PER_SOURCE}ページに達した。scope が広すぎる", flush=True)
+    if got >= max_pages:
+        print(f"  !! {src['name']}: 上限{max_pages}ページに達した。scope が広すぎる", flush=True)
         failed.append({"地域": area, "入口": src["name"], "url": entry, "error": "ページ数上限", "入口自体": False})
     return got, unchanged
 

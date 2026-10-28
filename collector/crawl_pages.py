@@ -10,6 +10,8 @@ J-Net21 に載らない県・市・商工会議所の制度を拾うためのも
 やらないこと
   ・ページの解釈、制度の切り出し。読むのは Claude（scripts/pages_text.py で本文にして読む）
   ・scope の外（別サイト、別階層）へ出ること。follow_external=true の入口だけ、外部リンクを1階層追う
+  ・exclude に当たるURLをたどること。exclude は正規表現のリストで、norm() したURL
+    （例: tokyo-kosha.or.jp/support/josei/kigyo/r6.pdf。末尾の index.html は落ちる）に re.search で当てる
 
 失敗の扱い
   ・入口ページが取れなければ failed に記録し、最後に終了コード1（＝入口URLが変わった合図）
@@ -126,6 +128,11 @@ def in_scope(u, scopes):
     return any(n.startswith(norm(s)) for s in scopes)
 
 
+def excluded(u, patterns):
+    n = norm(u)
+    return any(re.search(p, n) for p in patterns)
+
+
 def same_site(u, entry):
     return norm(u).split("/")[0] == norm(entry).split("/")[0]
 
@@ -153,6 +160,7 @@ def crawl_source(area, src, index, failed, today, seen_keys):
     scopes = src.get("scope", [entry])
     depth_max = int(src.get("depth", 1))
     ext_ok = bool(src.get("follow_external", False))
+    excludes = src.get("exclude", [])
     seen = {norm(entry)}
     queue = [(entry, 0, None)]
     got = 0
@@ -177,7 +185,7 @@ def crawl_source(area, src, index, failed, today, seen_keys):
             if prev["type"] == "html" and depth < depth_max:
                 for u in prev.get("links", []):
                     n = norm(u)
-                    if n not in seen:
+                    if n not in seen and not excluded(u, excludes):
                         seen.add(n)
                         queue.append((u, depth + 1, url))
             continue
@@ -202,6 +210,8 @@ def crawl_source(area, src, index, failed, today, seen_keys):
                 f.write(slim(html))
             # 次回304のときに使うため、たどる対象のリンクだけ控える
             for u in links_of(html, final):
+                if excluded(u, excludes):
+                    continue
                 if in_scope(u, scopes) or (ext_ok and depth == 0 and not same_site(u, entry)):
                     links.append(u)
         index[k] = {"url": url, "final_url": final, "地域": area, "入口": src["name"], "depth": depth,

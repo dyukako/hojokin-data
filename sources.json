@@ -1,5 +1,5 @@
 {
- "_説明": "J-Net21に載らない県・市・商工会議所の制度を拾うための入口ページ。個別の補助金ページは登録しない（毎年URLが変わる）。collector/crawl_pages.py がここから同じサイト内を depth 階層までたどって pages/ に生のまま保存する。follow_external=true の入口は、外部サイトへのリンクも1階層だけ追う（商工会議所のまとめページなど、県・市・国の制度へ直接リンクしているページ向け）。",
+ "_説明": "J-Net21に載らない県・市・商工会議所の制度を拾うための入口ページ。個別の補助金ページは登録しない（毎年URLが変わる）。collector/crawl_pages.py がここから同じサイト内を depth 階層までたどって pages/ に生のまま保存する。follow_external=true の入口は、外部サイトへのリンクも1階層だけ追う（商工会議所のまとめページなど、県・市・国の制度へ直接リンクしているページ向け）。exclude は除外するURLの正規表現のリスト（https:// と www. と末尾の index.html を落としたURLに当てる）。採択企業一覧など、制度ではないページが多くて上限400に達する入口向け。",
  "島根県": [
   {
    "name": "島根県 中小企業支援（目的別メニュー）",
@@ -71,6 +71,10 @@
    "depth": 2,
    "scope": [
     "https://www.tokyo-kosha.or.jp/support/"
+   ],
+   "exclude": [
+    "^tokyo-kosha\\.or\\.jp/support/josei/kigyo/.+",
+    "^tokyo-kosha\\.or\\.jp/support/josei/medical/[^/]*medical\\d+\\.html$"
    ]
   },
   {

@@ -650,6 +650,34 @@
   "入口": "島根県 中小企業課（新着）",
   "地域": "島根県"
  },
+ "0436de46fdc9": {
+  "depth": 1,
+  "etag": "",
+  "fetched_at": "2026-10-28 12:46",
+  "final_url": "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/shoko-sodan/",
+  "last_modified": "",
+  "links": [
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/shoko-sodan/syoko_soudan.html",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/chusho-yushi/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/kuni_tokyoto_shiennjyouhou/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/sogyo-shien/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/startup/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/chusho-fukuri/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/sentansetsubi-keikaku/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/ritchi-chosei/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/chosa/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/syoutengaishinkoujigyou/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/akitempo-kassei-pj/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/chiiki-tsuka/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/kankoshinko_jigyo/"
+  ],
+  "parent": "https://www.city.shibuya.tokyo.jp/jigyosha/",
+  "title": "商工相談 | 商工・労働・相談 | 渋谷区ポータル",
+  "type": "html",
+  "url": "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/shoko-sodan/",
+  "入口": "渋谷区 事業者向け情報（商工・労働・相談）",
+  "地域": "渋谷区"
+ },
  "047e8dd9af91": {
   "depth": 1,
   "etag": "\"160c63-58f5-65e29c2eaff06\"",
@@ -1629,6 +1657,22 @@
   "入口": "島根県 中小企業課（新着）",
   "地域": "島根県"
  },
+ "0db6cd7e30a6": {
+  "depth": 2,
+  "etag": "",
+  "fetched_at": "2026-10-28 12:46",
+  "final_url": "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/syoutengaishinkoujigyou/senmonkahaken.html",
+  "last_modified": "",
+  "links": [
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/syoutengaishinkoujigyou/"
+  ],
+  "parent": "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/syoutengaishinkoujigyou/",
+  "title": "商店街専門家派遣事業 | 商店街振興事業 | 渋谷区ポータル",
+  "type": "html",
+  "url": "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/syoutengaishinkoujigyou/senmonkahaken.html",
+  "入口": "渋谷区 事業者向け情報（商工・労働・相談）",
+  "地域": "渋谷区"
+ },
  "0e43cb3f2757": {
   "depth": 1,
   "etag": "",
@@ -2159,6 +2203,39 @@
   "入口": "調布市産業労働支援センター",
   "地域": "調布市"
  },
+ "112c732a8b45": {
+  "depth": 1,
+  "etag": "",
+  "fetched_at": "2026-10-28 12:46",
+  "final_url": "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/startup/",
+  "last_modified": "",
+  "links": [
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/startup/entrepreneurship_program.html",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/startup/startup_20250711.html",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/startup/poc.html",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/startup/grobal_suishin.html",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/startup/shien_jigyo.html",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/startup/visa.html",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/chusho-yushi/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/shoko-sodan/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/kuni_tokyoto_shiennjyouhou/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/sogyo-shien/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/chusho-fukuri/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/sentansetsubi-keikaku/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/ritchi-chosei/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/chosa/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/syoutengaishinkoujigyou/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/akitempo-kassei-pj/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/chiiki-tsuka/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/kankoshinko_jigyo/"
+  ],
+  "parent": "https://www.city.shibuya.tokyo.jp/jigyosha/",
+  "title": "スタートアップ支援事業 | 商工・労働・相談 | 渋谷区ポータル",
+  "type": "html",
+  "url": "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/startup/",
+  "入口": "渋谷区 事業者向け情報（商工・労働・相談）",
+  "地域": "渋谷区"
+ },
  "113ea99a596d": {
   "depth": 2,
   "etag": "\"37dc9-64de6275cd2b4\"",
@@ -2321,6 +2398,38 @@
   "url": "https://www.city.chofu.lg.jp/sangyou/sangyoushinkou/index.html",
   "入口": "調布市 融資・助成",
   "地域": "調布市"
+ },
+ "1273dadb8450": {
+  "depth": 1,
+  "etag": "",
+  "fetched_at": "2026-10-28 12:46",
+  "final_url": "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/chusho-yushi/",
+  "last_modified": "",
+  "links": [
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/chusho-yushi/daikoshinsei.html",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/chusho-yushi/yushi2_yusoshinsei.html",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/chusho-yushi/sb_yushi1.html",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/chusho-yushi/chusho_shien.html",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/chusho-yushi/sb_yushi4.html",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/shoko-sodan/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/kuni_tokyoto_shiennjyouhou/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/sogyo-shien/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/startup/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/chusho-fukuri/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/sentansetsubi-keikaku/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/ritchi-chosei/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/chosa/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/syoutengaishinkoujigyou/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/akitempo-kassei-pj/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/chiiki-tsuka/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/kankoshinko_jigyo/"
+  ],
+  "parent": "https://www.city.shibuya.tokyo.jp/jigyosha/",
+  "title": "中小企業資金融資 | 商工・労働・相談 | 渋谷区ポータル",
+  "type": "html",
+  "url": "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/chusho-yushi/",
+  "入口": "渋谷区 事業者向け情報（商工・労働・相談）",
+  "地域": "渋谷区"
  },
  "12fb715dd73c": {
   "depth": 2,
@@ -2485,6 +2594,22 @@
   "url": "https://www.sangyo-rodo.metro.tokyo.lg.jp/chushou/shoko/chiiki/chiikishigen",
   "入口": "東京都産業労働局 商工・助成",
   "地域": "東京都"
+ },
+ "1358cb0bd768": {
+  "depth": 2,
+  "etag": "",
+  "fetched_at": "2026-10-28 12:46",
+  "final_url": "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/syoutengaishinkoujigyou/kunai_syotenkai.html",
+  "last_modified": "",
+  "links": [
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/syoutengaishinkoujigyou/"
+  ],
+  "parent": "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/syoutengaishinkoujigyou/",
+  "title": "渋谷区内の商店会 | 商店街振興事業 | 渋谷区ポータル",
+  "type": "html",
+  "url": "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/syoutengaishinkoujigyou/kunai_syotenkai.html",
+  "入口": "渋谷区 事業者向け情報（商工・労働・相談）",
+  "地域": "渋谷区"
  },
  "13630dd41582": {
   "depth": 2,
@@ -2778,6 +2903,22 @@
   "url": "https://www.pref.shimane.lg.jp/industry/syoko/sangyo/chusho/kigyoukatikouzyou.data/syoukibo_youkou.pdf",
   "入口": "島根県 中小企業課（新着）",
   "地域": "島根県"
+ },
+ "1460379022ba": {
+  "depth": 2,
+  "etag": "",
+  "fetched_at": "2026-10-28 12:46",
+  "final_url": "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/syoutengaishinkoujigyou/ledka.html",
+  "last_modified": "",
+  "links": [
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/syoutengaishinkoujigyou/"
+  ],
+  "parent": "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/syoutengaishinkoujigyou/",
+  "title": "商店街街路灯LED化に係る事業補助金 | 商店街振興事業 | 渋谷区ポータル",
+  "type": "html",
+  "url": "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/syoutengaishinkoujigyou/ledka.html",
+  "入口": "渋谷区 事業者向け情報（商工・労働・相談）",
+  "地域": "渋谷区"
  },
  "14ab0b332314": {
   "depth": 1,
@@ -3236,6 +3377,50 @@
   "url": "https://www.city.izumo.shimane.jp/www/contents/1663064503294/index.html",
   "入口": "出雲市 商工振興課 情報一覧",
   "地域": "出雲市"
+ },
+ "18661c5c2e4a": {
+  "depth": 1,
+  "etag": "",
+  "fetched_at": "2026-10-28 12:46",
+  "final_url": "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/ritchi-chosei/",
+  "last_modified": "",
+  "links": [
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/ritchi-chosei/shogyo_jyorei.html",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/chusho-yushi/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/shoko-sodan/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/kuni_tokyoto_shiennjyouhou/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/sogyo-shien/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/startup/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/chusho-fukuri/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/sentansetsubi-keikaku/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/chosa/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/syoutengaishinkoujigyou/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/akitempo-kassei-pj/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/chiiki-tsuka/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/kankoshinko_jigyo/"
+  ],
+  "parent": "https://www.city.shibuya.tokyo.jp/jigyosha/",
+  "title": "特定商業施設の立地調整 | 商工・労働・相談 | 渋谷区ポータル",
+  "type": "html",
+  "url": "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/ritchi-chosei/",
+  "入口": "渋谷区 事業者向け情報（商工・労働・相談）",
+  "地域": "渋谷区"
+ },
+ "18690d4ce5b2": {
+  "depth": 2,
+  "etag": "",
+  "fetched_at": "2026-10-28 12:46",
+  "final_url": "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/akitempo-kassei-pj/akitempo.html",
+  "last_modified": "",
+  "links": [
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/akitempo-kassei-pj/"
+  ],
+  "parent": "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/akitempo-kassei-pj/",
+  "title": "店舗開業支援補助金～渋谷Local Street Project～ | 渋⾕Local Street Project | 渋谷区ポータル",
+  "type": "html",
+  "url": "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/akitempo-kassei-pj/akitempo.html",
+  "入口": "渋谷区 事業者向け情報（商工・労働・相談）",
+  "地域": "渋谷区"
  },
  "18cddb332fc8": {
   "depth": 1,
@@ -3955,6 +4140,22 @@
   "入口": "島根県 中小企業課（新着）",
   "地域": "島根県"
  },
+ "1ea6abd55780": {
+  "depth": 2,
+  "etag": "",
+  "fetched_at": "2026-10-28 12:46",
+  "final_url": "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/ritchi-chosei/shogyo_jyorei.html",
+  "last_modified": "",
+  "links": [
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/ritchi-chosei/"
+  ],
+  "parent": "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/ritchi-chosei/",
+  "title": "渋谷区特定商業施設の立地調整について | 特定商業施設の立地調整 | 渋谷区ポータル",
+  "type": "html",
+  "url": "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/ritchi-chosei/shogyo_jyorei.html",
+  "入口": "渋谷区 事業者向け情報（商工・労働・相談）",
+  "地域": "渋谷区"
+ },
  "1ebc0d931c43": {
   "depth": 2,
   "etag": "\"32893-65df93054208e\"",
@@ -4281,6 +4482,22 @@
   "url": "https://www.pref.shimane.lg.jp/industry/syoko/sangyo/kouri_tenpo/todokede/R6/reiwa6_todokedebun.html",
   "入口": "島根県 中小企業課（新着）",
   "地域": "島根県"
+ },
+ "218ecd8ac77d": {
+  "depth": 2,
+  "etag": "",
+  "fetched_at": "2026-10-28 12:46",
+  "final_url": "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/chusho-yushi/sb_yushi1.html",
+  "last_modified": "",
+  "links": [
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/chusho-yushi/"
+  ],
+  "parent": "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/chusho-yushi/",
+  "title": "区の中小企業事業資金融資あっせん制度 | 中小企業資金融資 | 渋谷区ポータル",
+  "type": "html",
+  "url": "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/chusho-yushi/sb_yushi1.html",
+  "入口": "渋谷区 事業者向け情報（商工・労働・相談）",
+  "地域": "渋谷区"
  },
  "2261cc56dbff": {
   "depth": 2,
@@ -4820,6 +5037,22 @@
   "url": "https://www.sangyo-rodo.metro.tokyo.lg.jp/chushou/shoko/gijustu/kensyu",
   "入口": "東京都産業労働局 商工・助成",
   "地域": "東京都"
+ },
+ "25b74648290b": {
+  "depth": 2,
+  "etag": "",
+  "fetched_at": "2026-10-28 12:46",
+  "final_url": "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/syoutengaishinkoujigyou/kasseika.html",
+  "last_modified": "",
+  "links": [
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/syoutengaishinkoujigyou/"
+  ],
+  "parent": "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/syoutengaishinkoujigyou/",
+  "title": "商店街活性化事業助成金 | 商店街振興事業 | 渋谷区ポータル",
+  "type": "html",
+  "url": "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/syoutengaishinkoujigyou/kasseika.html",
+  "入口": "渋谷区 事業者向け情報（商工・労働・相談）",
+  "地域": "渋谷区"
  },
  "25df408544b7": {
   "depth": 1,
@@ -5781,6 +6014,22 @@
   "入口": "出雲市 商工振興課 情報一覧",
   "地域": "出雲市"
  },
+ "2ce9323a4d99": {
+  "depth": 2,
+  "etag": "",
+  "fetched_at": "2026-10-28 12:46",
+  "final_url": "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/startup/entrepreneurship_program.html",
+  "last_modified": "",
+  "links": [
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/startup/"
+  ],
+  "parent": "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/startup/",
+  "title": "起業家支援・起業家育成プログラム | スタートアップ支援事業 | 渋谷区ポータル",
+  "type": "html",
+  "url": "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/startup/entrepreneurship_program.html",
+  "入口": "渋谷区 事業者向け情報（商工・労働・相談）",
+  "地域": "渋谷区"
+ },
  "2d3bc7a82a88": {
   "depth": 1,
   "etag": "\"120be9-10f3b-65eb262d797bd\"",
@@ -6688,6 +6937,22 @@
   "入口": "調布市産業労働支援センター",
   "地域": "調布市"
  },
+ "30f0806c8551": {
+  "depth": 2,
+  "etag": "",
+  "fetched_at": "2026-10-28 12:46",
+  "final_url": "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/shoko-sodan/syoko_soudan.html",
+  "last_modified": "",
+  "links": [
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/shoko-sodan/"
+  ],
+  "parent": "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/shoko-sodan/",
+  "title": "商工相談 | 商工相談 | 渋谷区ポータル",
+  "type": "html",
+  "url": "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/shoko-sodan/syoko_soudan.html",
+  "入口": "渋谷区 事業者向け情報（商工・労働・相談）",
+  "地域": "渋谷区"
+ },
  "311a92d291ef": {
   "depth": 2,
   "etag": "\"baaee-61b479fddb8c0\"",
@@ -7358,6 +7623,22 @@
   "入口": "東京都産業労働局 商工・助成",
   "地域": "東京都"
  },
+ "368bcb84ec5f": {
+  "depth": 2,
+  "etag": "",
+  "fetched_at": "2026-10-28 12:46",
+  "final_url": "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/startup/poc.html",
+  "last_modified": "",
+  "links": [
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/startup/"
+  ],
+  "parent": "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/startup/",
+  "title": "実証実験事業 | スタートアップ支援事業 | 渋谷区ポータル",
+  "type": "html",
+  "url": "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/startup/poc.html",
+  "入口": "渋谷区 事業者向け情報（商工・労働・相談）",
+  "地域": "渋谷区"
+ },
  "369cc7e20201": {
   "depth": 2,
   "etag": "\"36375-65df7922dbc47\"",
@@ -7591,6 +7872,39 @@
   "入口": "出雲市 中小企業等への支援",
   "地域": "出雲市"
  },
+ "37aeac57cf46": {
+  "depth": 2,
+  "etag": "",
+  "fetched_at": "2026-10-28 12:46",
+  "final_url": "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/chusho-yushi/sb_yushi4.html",
+  "last_modified": "",
+  "links": [
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/chusho-yushi/"
+  ],
+  "parent": "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/chusho-yushi/",
+  "title": "その他の中小企業支援の問い合わせ（融資関連） | 中小企業資金融資 | 渋谷区ポータル",
+  "type": "html",
+  "url": "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/chusho-yushi/sb_yushi4.html",
+  "入口": "渋谷区 事業者向け情報（商工・労働・相談）",
+  "地域": "渋谷区"
+ },
+ "388e0fda1666": {
+  "depth": 2,
+  "etag": "",
+  "fetched_at": "2026-10-28 12:46",
+  "final_url": "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/chusho-yushi/yushi2_yusoshinsei.html",
+  "last_modified": "",
+  "links": [
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/chusho-yushi/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/chusho-yushi/chusho_shien.html"
+  ],
+  "parent": "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/chusho-yushi/",
+  "title": "セーフティネット保証の郵送申請について | 中小企業資金融資 | 渋谷区ポータル",
+  "type": "html",
+  "url": "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/chusho-yushi/yushi2_yusoshinsei.html",
+  "入口": "渋谷区 事業者向け情報（商工・労働・相談）",
+  "地域": "渋谷区"
+ },
  "38a84113cef9": {
   "depth": 2,
   "etag": "",
@@ -7661,6 +7975,34 @@
   "url": "https://www.pref.shimane.lg.jp/industry/syoko/sangyo/kouri_tenpo/siryou/index.data/tenpu25.pdf",
   "入口": "島根県 中小企業課（新着）",
   "地域": "島根県"
+ },
+ "392f69b5488c": {
+  "depth": 1,
+  "etag": "",
+  "fetched_at": "2026-10-28 12:46",
+  "final_url": "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/akitempo-kassei-pj/",
+  "last_modified": "",
+  "links": [
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/akitempo-kassei-pj/akitempo.html",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/chusho-yushi/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/shoko-sodan/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/kuni_tokyoto_shiennjyouhou/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/sogyo-shien/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/startup/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/chusho-fukuri/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/sentansetsubi-keikaku/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/ritchi-chosei/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/chosa/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/syoutengaishinkoujigyou/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/chiiki-tsuka/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/kankoshinko_jigyo/"
+  ],
+  "parent": "https://www.city.shibuya.tokyo.jp/jigyosha/",
+  "title": "渋⾕Local Street Project | 商工・労働・相談 | 渋谷区ポータル",
+  "type": "html",
+  "url": "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/akitempo-kassei-pj/",
+  "入口": "渋谷区 事業者向け情報（商工・労働・相談）",
+  "地域": "渋谷区"
  },
  "394f82ef9088": {
   "depth": 2,
@@ -8404,6 +8746,22 @@
   "url": "https://www.city.izumo.shimane.jp/www/contents/1738210089601/index.html",
   "入口": "出雲市 商工振興課 情報一覧",
   "地域": "出雲市"
+ },
+ "3f89b056c167": {
+  "depth": 2,
+  "etag": "",
+  "fetched_at": "2026-10-28 12:46",
+  "final_url": "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/kuni_tokyoto_shiennjyouhou/shien_site.html",
+  "last_modified": "",
+  "links": [
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/kuni_tokyoto_shiennjyouhou/"
+  ],
+  "parent": "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/kuni_tokyoto_shiennjyouhou/",
+  "title": "中小企業向け支援情報サイト（補助金・助成金関連） | 国・東京都などの支援情報 | 渋谷区ポータル",
+  "type": "html",
+  "url": "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/kuni_tokyoto_shiennjyouhou/shien_site.html",
+  "入口": "渋谷区 事業者向け情報（商工・労働・相談）",
+  "地域": "渋谷区"
  },
  "3f97c484dca5": {
   "depth": 1,
@@ -10048,6 +10406,34 @@
   "入口": "島根県 中小企業課（新着）",
   "地域": "島根県"
  },
+ "502c5f4cc357": {
+  "depth": 0,
+  "etag": "",
+  "fetched_at": "2026-10-28 12:46",
+  "final_url": "https://www.city.shibuya.tokyo.jp/jigyosha/",
+  "last_modified": "",
+  "links": [
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/chusho-yushi/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/shoko-sodan/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/kuni_tokyoto_shiennjyouhou/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/sogyo-shien/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/startup/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/chusho-fukuri/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/sentansetsubi-keikaku/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/ritchi-chosei/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/chosa/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/syoutengaishinkoujigyou/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/akitempo-kassei-pj/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/chiiki-tsuka/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/kankoshinko_jigyo/"
+  ],
+  "parent": null,
+  "title": "事業者向け情報 | 渋谷区ポータル",
+  "type": "html",
+  "url": "https://www.city.shibuya.tokyo.jp/jigyosha/",
+  "入口": "渋谷区 事業者向け情報（商工・労働・相談）",
+  "地域": "渋谷区"
+ },
  "506f58c28c32": {
   "depth": 1,
   "etag": "",
@@ -10625,6 +11011,35 @@
   "url": "https://www.pref.shimane.lg.jp/industry/syoko/sangyo/kouri_tenpo/siryou/ikenbosyu.html",
   "入口": "島根県 中小企業課（新着）",
   "地域": "島根県"
+ },
+ "555fa6a959b5": {
+  "depth": 1,
+  "etag": "",
+  "fetched_at": "2026-10-28 12:46",
+  "final_url": "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/chosa/",
+  "last_modified": "",
+  "links": [
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/chosa/keikyo_chosa.html",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/chosa/hakari_teikikensa.html",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/chusho-yushi/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/shoko-sodan/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/kuni_tokyoto_shiennjyouhou/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/sogyo-shien/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/startup/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/chusho-fukuri/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/sentansetsubi-keikaku/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/ritchi-chosei/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/syoutengaishinkoujigyou/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/akitempo-kassei-pj/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/chiiki-tsuka/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/kankoshinko_jigyo/"
+  ],
+  "parent": "https://www.city.shibuya.tokyo.jp/jigyosha/",
+  "title": "調査 | 商工・労働・相談 | 渋谷区ポータル",
+  "type": "html",
+  "url": "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/chosa/",
+  "入口": "渋谷区 事業者向け情報（商工・労働・相談）",
+  "地域": "渋谷区"
  },
  "55ae57710465": {
   "depth": 2,
@@ -11340,6 +11755,23 @@
   "入口": "出雲市 商工振興課 情報一覧",
   "地域": "出雲市"
  },
+ "5988790b932f": {
+  "depth": 2,
+  "etag": "",
+  "fetched_at": "2026-10-28 12:46",
+  "final_url": "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/startup/grobal_suishin.html",
+  "last_modified": "",
+  "links": [
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/startup/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/startup/visa.html"
+  ],
+  "parent": "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/startup/",
+  "title": "グローバル化推進事業 | スタートアップ支援事業 | 渋谷区ポータル",
+  "type": "html",
+  "url": "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/startup/grobal_suishin.html",
+  "入口": "渋谷区 事業者向け情報（商工・労働・相談）",
+  "地域": "渋谷区"
+ },
  "59ebda353dd7": {
   "depth": 1,
   "etag": "\"340eb-65df01b0f2a18\"",
@@ -11476,6 +11908,22 @@
   "入口": "調布市産業労働支援センター",
   "地域": "調布市"
  },
+ "5a985ee8ba2e": {
+  "depth": 2,
+  "etag": "",
+  "fetched_at": "2026-10-28 12:46",
+  "final_url": "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/syoutengaishinkoujigyou/ibentohojyokin.html",
+  "last_modified": "",
+  "links": [
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/syoutengaishinkoujigyou/"
+  ],
+  "parent": "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/syoutengaishinkoujigyou/",
+  "title": "商店会等イベント事業費補助金 | 商店街振興事業 | 渋谷区ポータル",
+  "type": "html",
+  "url": "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/syoutengaishinkoujigyou/ibentohojyokin.html",
+  "入口": "渋谷区 事業者向け情報（商工・労働・相談）",
+  "地域": "渋谷区"
+ },
  "5aa3a2543ec3": {
   "depth": 1,
   "etag": "",
@@ -11559,6 +12007,34 @@
   "url": "https://www.pref.shimane.lg.jp/industry/syoko/sangyo/yuushi/soudanmadoguchi.html",
   "入口": "島根県 中小企業支援（目的別メニュー）",
   "地域": "島根県"
+ },
+ "5c3483caf9f7": {
+  "depth": 1,
+  "etag": "",
+  "fetched_at": "2026-10-28 12:46",
+  "final_url": "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/chusho-fukuri/",
+  "last_modified": "",
+  "links": [
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/chusho-fukuri/kinro_member.html",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/chusho-yushi/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/shoko-sodan/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/kuni_tokyoto_shiennjyouhou/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/sogyo-shien/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/startup/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/sentansetsubi-keikaku/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/ritchi-chosei/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/chosa/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/syoutengaishinkoujigyou/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/akitempo-kassei-pj/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/chiiki-tsuka/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/kankoshinko_jigyo/"
+  ],
+  "parent": "https://www.city.shibuya.tokyo.jp/jigyosha/",
+  "title": "中小企業の福利厚生 | 商工・労働・相談 | 渋谷区ポータル",
+  "type": "html",
+  "url": "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/chusho-fukuri/",
+  "入口": "渋谷区 事業者向け情報（商工・労働・相談）",
+  "地域": "渋谷区"
  },
  "5c5b8a5bccae": {
   "depth": 2,
@@ -11915,6 +12391,23 @@
   "入口": "出雲市 商工振興課 情報一覧",
   "地域": "出雲市"
  },
+ "5d30a47fbcb3": {
+  "depth": 2,
+  "etag": "",
+  "fetched_at": "2026-10-28 12:46",
+  "final_url": "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/chusho-yushi/daikoshinsei.html",
+  "last_modified": "",
+  "links": [
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/chusho-yushi/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/chusho-yushi/chusho_shien.html"
+  ],
+  "parent": "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/chusho-yushi/",
+  "title": "金融機関による「代行申請」について | 中小企業資金融資 | 渋谷区ポータル",
+  "type": "html",
+  "url": "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/chusho-yushi/daikoshinsei.html",
+  "入口": "渋谷区 事業者向け情報（商工・労働・相談）",
+  "地域": "渋谷区"
+ },
  "5d900333b5f9": {
   "depth": 1,
   "etag": "\"324e6-65df6dc4819ef\"",
@@ -11931,6 +12424,45 @@
   "url": "https://www.pref.shimane.lg.jp/industry/employ/norin_koyou/sodan/",
   "入口": "島根県 雇用・人材育成の助成",
   "地域": "島根県"
+ },
+ "5ddd102394e9": {
+  "depth": 1,
+  "etag": "",
+  "fetched_at": "2026-10-28 12:46",
+  "final_url": "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/syoutengaishinkoujigyou/",
+  "last_modified": "",
+  "links": [
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/syoutengaishinkoujigyou/gaitototenken.html",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/syoutengaishinkoujigyou/kunai_syotenkai.html",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/syoutengaishinkoujigyou/tyarenjisenryaku.html",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/syoutengaishinkoujigyou/tiikirenkei.html",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/syoutengaishinkoujigyou/ibentohojyokin.html",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/syoutengaishinkoujigyou/kasseika.html",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/syoutengaishinkoujigyou/seisakukadaitaiougata.html",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/syoutengaishinkoujigyou/ledka.html",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/syoutengaishinkoujigyou/kyoudousisetu.html",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/syoutengaishinkoujigyou/bouhansetubiseibi.html",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/syoutengaishinkoujigyou/bouhansetubiiji.html",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/syoutengaishinkoujigyou/senmonkahaken.html",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/chusho-yushi/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/shoko-sodan/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/kuni_tokyoto_shiennjyouhou/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/sogyo-shien/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/startup/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/chusho-fukuri/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/sentansetsubi-keikaku/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/ritchi-chosei/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/chosa/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/akitempo-kassei-pj/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/chiiki-tsuka/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/kankoshinko_jigyo/"
+  ],
+  "parent": "https://www.city.shibuya.tokyo.jp/jigyosha/",
+  "title": "商店街振興事業 | 商工・労働・相談 | 渋谷区ポータル",
+  "type": "html",
+  "url": "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/syoutengaishinkoujigyou/",
+  "入口": "渋谷区 事業者向け情報（商工・労働・相談）",
+  "地域": "渋谷区"
  },
  "5e0b64f1b478": {
   "depth": 2,
@@ -12507,6 +13039,26 @@
   "url": "https://www.chofusci.com/archives/16475",
   "入口": "調布市商工会 トピックス",
   "地域": "調布市"
+ },
+ "63cf4ed2cb2a": {
+  "depth": 2,
+  "etag": "",
+  "fetched_at": "2026-10-28 12:46",
+  "final_url": "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/chusho-yushi/chusho_shien.html",
+  "last_modified": "",
+  "links": [
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/chusho-yushi/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/chusho-yushi/sb_yushi1.html",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/chusho-yushi/yushi2_yusoshinsei.html",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/chusho-yushi/daikoshinsei.html",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/shoko-sodan/syoko_soudan.html"
+  ],
+  "parent": "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/chusho-yushi/",
+  "title": "人件費・物価高騰に伴う中小企業支援について | 中小企業資金融資 | 渋谷区ポータル",
+  "type": "html",
+  "url": "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/chusho-yushi/chusho_shien.html",
+  "入口": "渋谷区 事業者向け情報（商工・労働・相談）",
+  "地域": "渋谷区"
  },
  "642a275633ff": {
   "depth": 1,
@@ -13120,6 +13672,23 @@
   "入口": "島根県 中小企業支援（目的別メニュー）",
   "地域": "島根県"
  },
+ "69b20368c35d": {
+  "depth": 2,
+  "etag": "",
+  "fetched_at": "2026-10-28 12:46",
+  "final_url": "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/sogyo-shien/sogyoshien.html",
+  "last_modified": "",
+  "links": [
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/sogyo-shien/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/sogyo-shien/sogyoshien_shomei.html"
+  ],
+  "parent": "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/sogyo-shien/",
+  "title": "特定創業支援等事業 創業セミナー＠オンライン 基本編 | 創業支援等事業 | 渋谷区ポータル",
+  "type": "html",
+  "url": "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/sogyo-shien/sogyoshien.html",
+  "入口": "渋谷区 事業者向け情報（商工・労働・相談）",
+  "地域": "渋谷区"
+ },
  "6a8bd05edd23": {
   "depth": 1,
   "etag": "\"220817-6a1b-65daf83452912\"",
@@ -13182,6 +13751,22 @@
   "url": "https://www.city.izumo.shimane.jp/www/contents/1684216527313/index.html",
   "入口": "出雲市 商工振興課 情報一覧",
   "地域": "出雲市"
+ },
+ "6b12b0a77519": {
+  "depth": 2,
+  "etag": "",
+  "fetched_at": "2026-10-28 12:46",
+  "final_url": "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/syoutengaishinkoujigyou/gaitototenken.html",
+  "last_modified": "",
+  "links": [
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/syoutengaishinkoujigyou/"
+  ],
+  "parent": "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/syoutengaishinkoujigyou/",
+  "title": "商店街街路灯等点検に係る事業補助金 | 商店街振興事業 | 渋谷区ポータル",
+  "type": "html",
+  "url": "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/syoutengaishinkoujigyou/gaitototenken.html",
+  "入口": "渋谷区 事業者向け情報（商工・労働・相談）",
+  "地域": "渋谷区"
  },
  "6b1e92d9d287": {
   "depth": 1,
@@ -13920,6 +14505,22 @@
   "入口": "東京都産業労働局 商工・助成",
   "地域": "東京都"
  },
+ "6f52179232cf": {
+  "depth": 2,
+  "etag": "",
+  "fetched_at": "2026-10-28 12:46",
+  "final_url": "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/startup/shien_jigyo.html",
+  "last_modified": "",
+  "links": [
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/startup/"
+  ],
+  "parent": "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/startup/",
+  "title": "スタートアップ環境整備事業 | スタートアップ支援事業 | 渋谷区ポータル",
+  "type": "html",
+  "url": "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/startup/shien_jigyo.html",
+  "入口": "渋谷区 事業者向け情報（商工・労働・相談）",
+  "地域": "渋谷区"
+ },
  "70d61a328474": {
   "depth": 2,
   "etag": "\"99db-65790a32410ac\"",
@@ -14451,6 +15052,22 @@
   "url": "https://www.pref.shimane.lg.jp/industry/syoko/sangyo/saiseki/",
   "入口": "島根県 中小企業支援（目的別メニュー）",
   "地域": "島根県"
+ },
+ "73b676610ced": {
+  "depth": 2,
+  "etag": "",
+  "fetched_at": "2026-10-28 12:46",
+  "final_url": "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/syoutengaishinkoujigyou/kyoudousisetu.html",
+  "last_modified": "",
+  "links": [
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/syoutengaishinkoujigyou/"
+  ],
+  "parent": "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/syoutengaishinkoujigyou/",
+  "title": "商店街共同施設維持管理費補助 | 商店街振興事業 | 渋谷区ポータル",
+  "type": "html",
+  "url": "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/syoutengaishinkoujigyou/kyoudousisetu.html",
+  "入口": "渋谷区 事業者向け情報（商工・労働・相談）",
+  "地域": "渋谷区"
  },
  "73c1a85850f8": {
   "depth": 1,
@@ -16591,6 +17208,35 @@
   "入口": "調布市産業労働支援センター",
   "地域": "調布市"
  },
+ "850f6c46c02b": {
+  "depth": 1,
+  "etag": "",
+  "fetched_at": "2026-10-28 12:46",
+  "final_url": "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/chiiki-tsuka/",
+  "last_modified": "",
+  "links": [
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/chiiki-tsuka/hachipay_oshirase.html",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/chiiki-tsuka/chikitsuka.html",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/chusho-yushi/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/shoko-sodan/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/kuni_tokyoto_shiennjyouhou/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/sogyo-shien/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/startup/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/chusho-fukuri/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/sentansetsubi-keikaku/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/ritchi-chosei/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/chosa/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/syoutengaishinkoujigyou/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/akitempo-kassei-pj/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/kankoshinko_jigyo/"
+  ],
+  "parent": "https://www.city.shibuya.tokyo.jp/jigyosha/",
+  "title": "ハチペイ | 商工・労働・相談 | 渋谷区ポータル",
+  "type": "html",
+  "url": "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/chiiki-tsuka/",
+  "入口": "渋谷区 事業者向け情報（商工・労働・相談）",
+  "地域": "渋谷区"
+ },
  "857ad458c480": {
   "depth": 2,
   "etag": "\"192ec-61e5c529d106c\"",
@@ -16758,6 +17404,34 @@
   "url": "https://www.pref.shimane.lg.jp/industry/syoko/sangyo/yuushi/notohanntou.html",
   "入口": "島根県 中小企業支援（目的別メニュー）",
   "地域": "島根県"
+ },
+ "86666b45cad8": {
+  "depth": 1,
+  "etag": "",
+  "fetched_at": "2026-10-28 12:46",
+  "final_url": "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/kankoshinko_jigyo/",
+  "last_modified": "",
+  "links": [
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/kankoshinko_jigyo/chiiki_kanko.html",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/chusho-yushi/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/shoko-sodan/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/kuni_tokyoto_shiennjyouhou/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/sogyo-shien/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/startup/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/chusho-fukuri/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/sentansetsubi-keikaku/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/ritchi-chosei/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/chosa/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/syoutengaishinkoujigyou/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/akitempo-kassei-pj/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/chiiki-tsuka/"
+  ],
+  "parent": "https://www.city.shibuya.tokyo.jp/jigyosha/",
+  "title": "観光振興事業 | 商工・労働・相談 | 渋谷区ポータル",
+  "type": "html",
+  "url": "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/kankoshinko_jigyo/",
+  "入口": "渋谷区 事業者向け情報（商工・労働・相談）",
+  "地域": "渋谷区"
  },
  "87927e5a9305": {
   "depth": 1,
@@ -17052,6 +17726,22 @@
   "url": "http://www.izmcci.or.jp/consultation/financial_counseling",
   "入口": "出雲商工会議所 補助金・助成金（国・県・市のまとめ）",
   "地域": "出雲市"
+ },
+ "8a9ba5a3b3b7": {
+  "depth": 2,
+  "etag": "",
+  "fetched_at": "2026-10-28 12:46",
+  "final_url": "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/syoutengaishinkoujigyou/bouhansetubiiji.html",
+  "last_modified": "",
+  "links": [
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/syoutengaishinkoujigyou/"
+  ],
+  "parent": "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/syoutengaishinkoujigyou/",
+  "title": "商店街防犯設備維持管理経費補助金 | 商店街振興事業 | 渋谷区ポータル",
+  "type": "html",
+  "url": "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/syoutengaishinkoujigyou/bouhansetubiiji.html",
+  "入口": "渋谷区 事業者向け情報（商工・労働・相談）",
+  "地域": "渋谷区"
  },
  "8b6df4bf5375": {
   "depth": 1,
@@ -18003,6 +18693,22 @@
   "入口": "東京都産業労働局 商工・助成",
   "地域": "東京都"
  },
+ "92f37a1d4e24": {
+  "depth": 2,
+  "etag": "",
+  "fetched_at": "2026-10-28 12:46",
+  "final_url": "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/sentansetsubi-keikaku/sentan_keikaku.html",
+  "last_modified": "",
+  "links": [
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/sentansetsubi-keikaku/"
+  ],
+  "parent": "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/sentansetsubi-keikaku/",
+  "title": "中小企業等経営強化法に基づく「先端設備等導入計画」について | 先端設備等導入計画 | 渋谷区ポータル",
+  "type": "html",
+  "url": "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/sentansetsubi-keikaku/sentan_keikaku.html",
+  "入口": "渋谷区 事業者向け情報（商工・労働・相談）",
+  "地域": "渋谷区"
+ },
  "9336d933c537": {
   "depth": 2,
   "etag": "\"4212c-64967f09a37e9\"",
@@ -18091,6 +18797,35 @@
   "url": "https://www.city.izumo.shimane.jp/www/contents/1407998917650/index.html",
   "入口": "出雲市 商工振興課 情報一覧",
   "地域": "出雲市"
+ },
+ "93899224ac93": {
+  "depth": 1,
+  "etag": "",
+  "fetched_at": "2026-10-28 12:46",
+  "final_url": "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/sogyo-shien/",
+  "last_modified": "",
+  "links": [
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/sogyo-shien/sogyoshien.html",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/sogyo-shien/sogyoshien_shomei.html",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/chusho-yushi/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/shoko-sodan/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/kuni_tokyoto_shiennjyouhou/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/startup/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/chusho-fukuri/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/sentansetsubi-keikaku/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/ritchi-chosei/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/chosa/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/syoutengaishinkoujigyou/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/akitempo-kassei-pj/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/chiiki-tsuka/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/kankoshinko_jigyo/"
+  ],
+  "parent": "https://www.city.shibuya.tokyo.jp/jigyosha/",
+  "title": "創業支援等事業 | 商工・労働・相談 | 渋谷区ポータル",
+  "type": "html",
+  "url": "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/sogyo-shien/",
+  "入口": "渋谷区 事業者向け情報（商工・労働・相談）",
+  "地域": "渋谷区"
  },
  "93b4dd4c5011": {
   "depth": 2,
@@ -18614,6 +19349,22 @@
   "url": "https://www.pref.shimane.lg.jp/industry/syoko/sangyo/chusho/shienkeikaku.data/keikaku_R6.pdf",
   "入口": "島根県 中小企業課（新着）",
   "地域": "島根県"
+ },
+ "99c67eda4698": {
+  "depth": 2,
+  "etag": "",
+  "fetched_at": "2026-10-28 12:46",
+  "final_url": "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/kankoshinko_jigyo/chiiki_kanko.html",
+  "last_modified": "",
+  "links": [
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/kankoshinko_jigyo/"
+  ],
+  "parent": "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/kankoshinko_jigyo/",
+  "title": "地域観光資源開発補助金 | 観光振興事業 | 渋谷区ポータル",
+  "type": "html",
+  "url": "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/kankoshinko_jigyo/chiiki_kanko.html",
+  "入口": "渋谷区 事業者向け情報（商工・労働・相談）",
+  "地域": "渋谷区"
  },
  "9a21954d83f5": {
   "depth": 1,
@@ -19619,6 +20370,34 @@
   "入口": "島根県 中小企業課（新着）",
   "地域": "島根県"
  },
+ "a30022154861": {
+  "depth": 1,
+  "etag": "",
+  "fetched_at": "2026-10-28 12:46",
+  "final_url": "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/kuni_tokyoto_shiennjyouhou/",
+  "last_modified": "",
+  "links": [
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/kuni_tokyoto_shiennjyouhou/shien_site.html",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/chusho-yushi/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/shoko-sodan/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/sogyo-shien/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/startup/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/chusho-fukuri/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/sentansetsubi-keikaku/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/ritchi-chosei/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/chosa/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/syoutengaishinkoujigyou/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/akitempo-kassei-pj/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/chiiki-tsuka/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/kankoshinko_jigyo/"
+  ],
+  "parent": "https://www.city.shibuya.tokyo.jp/jigyosha/",
+  "title": "国・東京都などの支援情報 | 商工・労働・相談 | 渋谷区ポータル",
+  "type": "html",
+  "url": "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/kuni_tokyoto_shiennjyouhou/",
+  "入口": "渋谷区 事業者向け情報（商工・労働・相談）",
+  "地域": "渋谷区"
+ },
  "a3166defdfe3": {
   "depth": 2,
   "etag": "\"143c8-5735d5e6e6840\"",
@@ -20251,6 +21030,22 @@
   "url": "https://www.pref.shimane.lg.jp/industry/syoko/sangyo/chiiki/",
   "入口": "島根県 中小企業支援（目的別メニュー）",
   "地域": "島根県"
+ },
+ "aa38058d7021": {
+  "depth": 2,
+  "etag": "",
+  "fetched_at": "2026-10-28 12:46",
+  "final_url": "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/startup/visa.html",
+  "last_modified": "",
+  "links": [
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/startup/"
+  ],
+  "parent": "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/startup/",
+  "title": "渋谷でのスタートアップビザの手続きについて | スタートアップ支援事業 | 渋谷区ポータル",
+  "type": "html",
+  "url": "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/startup/visa.html",
+  "入口": "渋谷区 事業者向け情報（商工・労働・相談）",
+  "地域": "渋谷区"
  },
  "aad61319ae84": {
   "depth": 1,
@@ -20968,6 +21763,22 @@
   "url": "https://www.pref.shimane.lg.jp/industry/syoko/sangyo/kyousou_project/",
   "入口": "島根県 中小企業支援（目的別メニュー）",
   "地域": "島根県"
+ },
+ "afbefb9ecee2": {
+  "depth": 2,
+  "etag": "",
+  "fetched_at": "2026-10-28 12:46",
+  "final_url": "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/syoutengaishinkoujigyou/seisakukadaitaiougata.html",
+  "last_modified": "",
+  "links": [
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/syoutengaishinkoujigyou/"
+  ],
+  "parent": "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/syoutengaishinkoujigyou/",
+  "title": "政策課題対応型商店街事業費補助金 | 商店街振興事業 | 渋谷区ポータル",
+  "type": "html",
+  "url": "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/syoutengaishinkoujigyou/seisakukadaitaiougata.html",
+  "入口": "渋谷区 事業者向け情報（商工・労働・相談）",
+  "地域": "渋谷区"
  },
  "affa744d7b13": {
   "depth": 2,
@@ -23351,6 +24162,22 @@
   "入口": "出雲商工会議所 補助金・助成金（国・県・市のまとめ）",
   "地域": "出雲市"
  },
+ "c105ce361a4c": {
+  "depth": 2,
+  "etag": "",
+  "fetched_at": "2026-10-28 12:46",
+  "final_url": "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/chosa/hakari_teikikensa.html",
+  "last_modified": "",
+  "links": [
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/chosa/"
+  ],
+  "parent": "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/chosa/",
+  "title": "はかりの定期検査にかかる事前調査 | 調査 | 渋谷区ポータル",
+  "type": "html",
+  "url": "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/chosa/hakari_teikikensa.html",
+  "入口": "渋谷区 事業者向け情報（商工・労働・相談）",
+  "地域": "渋谷区"
+ },
  "c13a8c5c2e04": {
   "depth": 2,
   "etag": "\"7fddf-65237f13f425e\"",
@@ -25106,6 +25933,22 @@
   "入口": "島根県 中小企業課（新着）",
   "地域": "島根県"
  },
+ "cdcf04722eee": {
+  "depth": 2,
+  "etag": "",
+  "fetched_at": "2026-10-28 12:46",
+  "final_url": "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/syoutengaishinkoujigyou/tyarenjisenryaku.html",
+  "last_modified": "",
+  "links": [
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/syoutengaishinkoujigyou/"
+  ],
+  "parent": "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/syoutengaishinkoujigyou/",
+  "title": "商店街チャレンジ戦略支援事業補助金 | 商店街振興事業 | 渋谷区ポータル",
+  "type": "html",
+  "url": "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/syoutengaishinkoujigyou/tyarenjisenryaku.html",
+  "入口": "渋谷区 事業者向け情報（商工・労働・相談）",
+  "地域": "渋谷区"
+ },
  "ce29f31a6d70": {
   "depth": 2,
   "etag": "\"3325b-65df6cf174427\"",
@@ -25155,6 +25998,22 @@
   "url": "https://www.city.chofu.lg.jp/sangyou/nougyou/index.html",
   "入口": "調布市 融資・助成",
   "地域": "調布市"
+ },
+ "cf94b5d580c0": {
+  "depth": 2,
+  "etag": "",
+  "fetched_at": "2026-10-28 12:46",
+  "final_url": "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/chiiki-tsuka/chikitsuka.html",
+  "last_modified": "",
+  "links": [
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/chiiki-tsuka/"
+  ],
+  "parent": "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/chiiki-tsuka/",
+  "title": "デジタル地域通貨事業「ハチペイ」 | ハチペイ | 渋谷区ポータル",
+  "type": "html",
+  "url": "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/chiiki-tsuka/chikitsuka.html",
+  "入口": "渋谷区 事業者向け情報（商工・労働・相談）",
+  "地域": "渋谷区"
  },
  "cfae14f6f788": {
   "depth": 1,
@@ -26054,6 +26913,22 @@
   "入口": "調布市産業労働支援センター",
   "地域": "調布市"
  },
+ "d7ece3d14983": {
+  "depth": 2,
+  "etag": "",
+  "fetched_at": "2026-10-28 12:46",
+  "final_url": "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/startup/startup_20250711.html",
+  "last_modified": "",
+  "links": [
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/startup/"
+  ],
+  "parent": "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/startup/",
+  "title": "個人情報を含むノートパソコンの紛失について | スタートアップ支援事業 | 渋谷区ポータル",
+  "type": "html",
+  "url": "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/startup/startup_20250711.html",
+  "入口": "渋谷区 事業者向け情報（商工・労働・相談）",
+  "地域": "渋谷区"
+ },
  "d828b5f4031d": {
   "depth": 2,
   "etag": "\"322c9-65df6ceed6958\"",
@@ -26163,6 +27038,22 @@
   "url": "https://www.city.izumo.shimane.jp/www/contents/1672027894438/index.html",
   "入口": "出雲市 商工振興課 情報一覧",
   "地域": "出雲市"
+ },
+ "d92061f30980": {
+  "depth": 2,
+  "etag": "",
+  "fetched_at": "2026-10-28 12:46",
+  "final_url": "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/syoutengaishinkoujigyou/bouhansetubiseibi.html",
+  "last_modified": "",
+  "links": [
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/syoutengaishinkoujigyou/"
+  ],
+  "parent": "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/syoutengaishinkoujigyou/",
+  "title": "商店街防犯設備整備事業補助金 | 商店街振興事業 | 渋谷区ポータル",
+  "type": "html",
+  "url": "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/syoutengaishinkoujigyou/bouhansetubiseibi.html",
+  "入口": "渋谷区 事業者向け情報（商工・労働・相談）",
+  "地域": "渋谷区"
  },
  "d9273002c579": {
   "depth": 1,
@@ -29869,6 +30760,23 @@
   "入口": "調布市産業労働支援センター",
   "地域": "調布市"
  },
+ "f6410b882de5": {
+  "depth": 2,
+  "etag": "",
+  "fetched_at": "2026-10-28 12:46",
+  "final_url": "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/sogyo-shien/sogyoshien_shomei.html",
+  "last_modified": "",
+  "links": [
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/sogyo-shien/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/sogyo-shien/sogyoshien.html"
+  ],
+  "parent": "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/sogyo-shien/",
+  "title": "特定創業支援等事業による支援を受けたことの証明書について | 創業支援等事業 | 渋谷区ポータル",
+  "type": "html",
+  "url": "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/sogyo-shien/sogyoshien_shomei.html",
+  "入口": "渋谷区 事業者向け情報（商工・労働・相談）",
+  "地域": "渋谷区"
+ },
  "f651b6233062": {
   "depth": 2,
   "etag": "\"1cb05-631483497db8d\"",
@@ -30062,6 +30970,22 @@
   "url": "https://www.city.chofu.lg.jp/sangyou/sangyoushinkou/keikaku/index.html",
   "入口": "調布市 融資・助成",
   "地域": "調布市"
+ },
+ "f79c2dc7489c": {
+  "depth": 2,
+  "etag": "",
+  "fetched_at": "2026-10-28 12:46",
+  "final_url": "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/syoutengaishinkoujigyou/tiikirenkei.html",
+  "last_modified": "",
+  "links": [
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/syoutengaishinkoujigyou/"
+  ],
+  "parent": "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/syoutengaishinkoujigyou/",
+  "title": "地域連携型商店街事業補助金 | 商店街振興事業 | 渋谷区ポータル",
+  "type": "html",
+  "url": "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/syoutengaishinkoujigyou/tiikirenkei.html",
+  "入口": "渋谷区 事業者向け情報（商工・労働・相談）",
+  "地域": "渋谷区"
  },
  "f808c591375e": {
   "depth": 1,
@@ -30313,6 +31237,34 @@
   "入口": "出雲市 商工振興課 情報一覧",
   "地域": "出雲市"
  },
+ "f974aa4c3da6": {
+  "depth": 1,
+  "etag": "",
+  "fetched_at": "2026-10-28 12:46",
+  "final_url": "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/sentansetsubi-keikaku/",
+  "last_modified": "",
+  "links": [
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/sentansetsubi-keikaku/sentan_keikaku.html",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/chusho-yushi/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/shoko-sodan/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/kuni_tokyoto_shiennjyouhou/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/sogyo-shien/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/startup/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/chusho-fukuri/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/ritchi-chosei/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/chosa/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/syoutengaishinkoujigyou/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/akitempo-kassei-pj/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/chiiki-tsuka/",
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/kankoshinko_jigyo/"
+  ],
+  "parent": "https://www.city.shibuya.tokyo.jp/jigyosha/",
+  "title": "先端設備等導入計画 | 商工・労働・相談 | 渋谷区ポータル",
+  "type": "html",
+  "url": "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/sentansetsubi-keikaku/",
+  "入口": "渋谷区 事業者向け情報（商工・労働・相談）",
+  "地域": "渋谷区"
+ },
  "f99d73bc4d80": {
   "depth": 1,
   "etag": "\"240aac-6c75-65daf8b6a4890\"",
@@ -30502,6 +31454,22 @@
   "url": "https://www.city.izumo.shimane.jp/www/contents/1568103822993/index.html",
   "入口": "出雲市 商工振興課 情報一覧",
   "地域": "出雲市"
+ },
+ "fafbdf611a11": {
+  "depth": 2,
+  "etag": "",
+  "fetched_at": "2026-10-28 12:46",
+  "final_url": "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/chusho-fukuri/kinro_member.html",
+  "last_modified": "",
+  "links": [
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/chusho-fukuri/"
+  ],
+  "parent": "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/chusho-fukuri/",
+  "title": "勤労者福祉公社（きんぷく）会員募集 | 中小企業の福利厚生 | 渋谷区ポータル",
+  "type": "html",
+  "url": "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/chusho-fukuri/kinro_member.html",
+  "入口": "渋谷区 事業者向け情報（商工・労働・相談）",
+  "地域": "渋谷区"
  },
  "fb3e8946fc5c": {
   "depth": 1,
@@ -30883,6 +31851,22 @@
   "入口": "調布市産業労働支援センター",
   "地域": "調布市"
  },
+ "fdfd87029371": {
+  "depth": 2,
+  "etag": "",
+  "fetched_at": "2026-10-28 12:46",
+  "final_url": "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/chiiki-tsuka/hachipay_oshirase.html",
+  "last_modified": "",
+  "links": [
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/chiiki-tsuka/"
+  ],
+  "parent": "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/chiiki-tsuka/",
+  "title": "ハチペイに関するお知らせ | ハチペイ | 渋谷区ポータル",
+  "type": "html",
+  "url": "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/chiiki-tsuka/hachipay_oshirase.html",
+  "入口": "渋谷区 事業者向け情報（商工・労働・相談）",
+  "地域": "渋谷区"
+ },
  "fe2cfc46dd0c": {
   "depth": 2,
   "etag": "\"26011-61e6d7d4b574c\"",
@@ -31085,6 +32069,22 @@
   "url": "https://www.sangyo-rodo.metro.tokyo.lg.jp/chushou/shoko/chiiki/sien",
   "入口": "東京都産業労働局 商工・助成",
   "地域": "東京都"
+ },
+ "fec02837ac4e": {
+  "depth": 2,
+  "etag": "",
+  "fetched_at": "2026-10-28 12:46",
+  "final_url": "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/chosa/keikyo_chosa.html",
+  "last_modified": "",
+  "links": [
+   "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/chosa/"
+  ],
+  "parent": "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/chosa/",
+  "title": "景況調査 | 調査 | 渋谷区ポータル",
+  "type": "html",
+  "url": "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/chosa/keikyo_chosa.html",
+  "入口": "渋谷区 事業者向け情報（商工・労働・相談）",
+  "地域": "渋谷区"
  },
  "fec29bfef34c": {
   "depth": 1,

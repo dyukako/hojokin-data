@@ -1,18 +1,1 @@
-[
- {
-  "depth": 0,
-  "error": "HTTP Error 404: Not Found",
-  "url": "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/",
-  "入口": "渋谷区 商工・労働・相談（事業者向け）",
-  "入口自体": true,
-  "地域": "渋谷区"
- },
- {
-  "depth": 0,
-  "error": "HTTP Error 412: Precondition Failed",
-  "url": "https://www.tokyo-cci.or.jp/shibuya/",
-  "入口": "東京商工会議所 渋谷支部",
-  "入口自体": true,
-  "地域": "渋谷区"
- }
-]
+[]

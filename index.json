@@ -12906,7 +12906,7 @@
   "url": "https://j-net21.smrj.go.jp/snavi2/articles/188042"
  },
  "188050": {
-  "fetched_at": "2026-09-29 09:28",
+  "fetched_at": "2026-10-30 09:05",
   "first_seen": "2026-09-29 09:28",
   "prefs": [
    "00"
@@ -13202,7 +13202,7 @@
   "url": "https://j-net21.smrj.go.jp/snavi2/articles/188417"
  },
  "188419": {
-  "fetched_at": "2026-09-29 09:28",
+  "fetched_at": "2026-10-30 09:05",
   "first_seen": "2026-09-29 09:28",
   "prefs": [
    "00"
@@ -17597,7 +17597,7 @@
   "url": "https://j-net21.smrj.go.jp/snavi2/articles/192648"
  },
  "192665": {
-  "fetched_at": "2026-09-29 09:28",
+  "fetched_at": "2026-10-30 09:05",
   "first_seen": "2026-09-29 09:28",
   "prefs": [
    "41"
@@ -17613,7 +17613,7 @@
   "url": "https://j-net21.smrj.go.jp/snavi2/articles/192683"
  },
  "192689": {
-  "fetched_at": "2026-09-29 09:28",
+  "fetched_at": "2026-10-30 09:05",
   "first_seen": "2026-09-29 09:28",
   "prefs": [
    "00"
@@ -17621,7 +17621,7 @@
   "url": "https://j-net21.smrj.go.jp/snavi2/articles/192689"
  },
  "192745": {
-  "fetched_at": "2026-09-29 09:28",
+  "fetched_at": "2026-10-30 09:05",
   "first_seen": "2026-09-29 09:28",
   "prefs": [
    "13"
@@ -17629,7 +17629,7 @@
   "url": "https://j-net21.smrj.go.jp/snavi2/articles/192745"
  },
  "192749": {
-  "fetched_at": "2026-09-29 09:28",
+  "fetched_at": "2026-10-30 09:05",
   "first_seen": "2026-09-29 09:28",
   "prefs": [
    "11",
@@ -17641,7 +17641,7 @@
   "url": "https://j-net21.smrj.go.jp/snavi2/articles/192749"
  },
  "192763": {
-  "fetched_at": "2026-09-29 09:28",
+  "fetched_at": "2026-10-30 09:05",
   "first_seen": "2026-09-29 09:28",
   "prefs": [
    "27"
@@ -20134,6 +20134,14 @@
   ],
   "url": "https://j-net21.smrj.go.jp/snavi2/articles/194890"
  },
+ "194893": {
+  "fetched_at": "2026-10-30 09:05",
+  "first_seen": "2026-10-30 09:05",
+  "prefs": [
+   "15"
+  ],
+  "url": "https://j-net21.smrj.go.jp/snavi2/articles/194893"
+ },
  "194894": {
   "fetched_at": "2026-10-28 08:54",
   "first_seen": "2026-10-28 08:54",
@@ -20158,6 +20166,14 @@
   ],
   "url": "https://j-net21.smrj.go.jp/snavi2/articles/194921"
  },
+ "194937": {
+  "fetched_at": "2026-10-30 09:05",
+  "first_seen": "2026-10-30 09:05",
+  "prefs": [
+   "41"
+  ],
+  "url": "https://j-net21.smrj.go.jp/snavi2/articles/194937"
+ },
  "195002": {
   "fetched_at": "2026-10-29 09:11",
   "first_seen": "2026-10-29 09:11",
@@ -20173,6 +20189,54 @@
    "14"
   ],
   "url": "https://j-net21.smrj.go.jp/snavi2/articles/195030"
+ },
+ "195031": {
+  "fetched_at": "2026-10-30 09:05",
+  "first_seen": "2026-10-30 09:05",
+  "prefs": [
+   "28"
+  ],
+  "url": "https://j-net21.smrj.go.jp/snavi2/articles/195031"
+ },
+ "195032": {
+  "fetched_at": "2026-10-30 09:05",
+  "first_seen": "2026-10-30 09:05",
+  "prefs": [
+   "13"
+  ],
+  "url": "https://j-net21.smrj.go.jp/snavi2/articles/195032"
+ },
+ "195033": {
+  "fetched_at": "2026-10-30 09:05",
+  "first_seen": "2026-10-30 09:05",
+  "prefs": [
+   "02"
+  ],
+  "url": "https://j-net21.smrj.go.jp/snavi2/articles/195033"
+ },
+ "195034": {
+  "fetched_at": "2026-10-30 09:05",
+  "first_seen": "2026-10-30 09:05",
+  "prefs": [
+   "23"
+  ],
+  "url": "https://j-net21.smrj.go.jp/snavi2/articles/195034"
+ },
+ "195064": {
+  "fetched_at": "2026-10-30 09:05",
+  "first_seen": "2026-10-30 09:05",
+  "prefs": [
+   "34"
+  ],
+  "url": "https://j-net21.smrj.go.jp/snavi2/articles/195064"
+ },
+ "195124": {
+  "fetched_at": "2026-10-30 09:05",
+  "first_seen": "2026-10-30 09:05",
+  "prefs": [
+   "01"
+  ],
+  "url": "https://j-net21.smrj.go.jp/snavi2/articles/195124"
  },
  "49701": {
   "fetched_at": "2026-10-25 07:38",

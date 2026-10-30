@@ -1,98 +1,58 @@
 [
  {
   "depth": 1,
-  "error": "HTTP Error 404: Not Found",
-  "url": "https://www.tokyo-kosha.or.jp/support/josei/jigyo/chiiki.html",
-  "入口": "東京都中小企業振興公社 助成金一覧",
-  "入口自体": false,
-  "地域": "東京都"
- },
- {
-  "depth": 2,
-  "error": "HTTP Error 404: Not Found",
-  "url": "https://www.tokyo-kosha.or.jp/support/josei/yoshiki/eblf96000000a4ra.html",
-  "入口": "東京都中小企業振興公社 助成金一覧",
-  "入口自体": false,
-  "地域": "東京都"
- },
- {
-  "depth": 2,
   "error": "サイズ上限超え",
-  "url": "https://www.tokyo-kosha.or.jp/support/josei/jigyo/rmepal000002621v-att/R8_innovationmap.pdf",
-  "入口": "東京都中小企業振興公社 助成金一覧",
+  "url": "https://r6.jizokukahojokin.info/doc/r6_koubomanual_ip0306.pdf",
+  "入口": "探索 持続化 一般型 トップ",
   "入口自体": false,
-  "地域": "東京都"
+  "地域": "国"
  },
  {
-  "depth": 2,
-  "error": "HTTP Error 404: Not Found",
-  "url": "https://www.tokyo-kosha.or.jp/support/josei/jigyo/rmepal000002621v-att/R7_innovationmap.pdf",
-  "入口": "東京都中小企業振興公社 助成金一覧",
-  "入口自体": false,
-  "地域": "東京都"
- },
- {
-  "depth": 2,
+  "depth": 1,
   "error": "サイズ上限超え",
-  "url": "https://www.tokyo-kosha.or.jp/support/shien/soudan/rmepal0000000a99-att/tck_onestop_2027_260814.pdf",
-  "入口": "東京都中小企業振興公社 助成金一覧",
+  "url": "https://r6.jizokukahojokin.info/doc/r6_koubomanual_ip1001.pdf",
+  "入口": "探索 持続化 一般型 トップ",
   "入口自体": false,
-  "地域": "東京都"
+  "地域": "国"
  },
  {
-  "depth": 2,
+  "depth": 1,
   "error": "サイズ上限超え",
-  "url": "https://www.tokyo-kosha.or.jp/support/josei/jigyo/kaigoneeds/uu7kh900000049fx-att/r7_ikenkoukan.pdf",
-  "入口": "東京都中小企業振興公社 助成金一覧",
+  "url": "https://r6.jizokukahojokin.info/doc/r6_koubomanual_ip0306.pdf",
+  "入口": "探索 持続化 一般型 応募",
   "入口自体": false,
-  "地域": "東京都"
+  "地域": "国"
  },
  {
-  "depth": 2,
-  "error": "HTTP Error 404: Not Found",
-  "url": "https://www.tokyo-kosha.or.jp/support/josei/jigyo/inshoku-kyoka.html",
-  "入口": "東京都中小企業振興公社 助成金一覧",
+  "depth": 1,
+  "error": "サイズ上限超え",
+  "url": "https://shoryokuka.smrj.go.jp/assets/pdf/application_manual_catalog.pdf",
+  "入口": "探索 省力化 カタログ",
   "入口自体": false,
-  "地域": "東京都"
+  "地域": "国"
  },
  {
-  "depth": 2,
-  "error": "HTTP Error 404: Not Found",
-  "url": "https://www.tokyo-kosha.or.jp/support/josei/jigyo/gennyudaka.html",
-  "入口": "東京都中小企業振興公社 助成金一覧",
+  "depth": 1,
+  "error": "サイズ上限超え",
+  "url": "https://shoryokuka.smrj.go.jp/assets/pdf/implementation_manual.pdf",
+  "入口": "探索 省力化 カタログ",
   "入口自体": false,
-  "地域": "東京都"
+  "地域": "国"
  },
  {
-  "depth": 2,
-  "error": "HTTP Error 404: Not Found",
-  "url": "https://www.tokyo-kosha.or.jp/support/josei/jigyo/seizo_kinkyu.html",
-  "入口": "東京都中小企業振興公社 助成金一覧",
+  "depth": 1,
+  "error": "サイズ上限超え",
+  "url": "https://it-shien.smrj.go.jp/pdf/it2026_manual_kofu.pdf",
+  "入口": "探索 デジタル化AI",
   "入口自体": false,
-  "地域": "東京都"
+  "地域": "国"
  },
  {
-  "depth": 2,
-  "error": "HTTP Error 404: Not Found",
-  "url": "https://www.tokyo-kosha.or.jp/support/josei/jigyo/keieikiban_antei.html",
-  "入口": "東京都中小企業振興公社 助成金一覧",
+  "depth": 1,
+  "error": "サイズ上限超え",
+  "url": "https://it-shien.smrj.go.jp/pdf/it2026_manual_jisseki.pdf",
+  "入口": "探索 デジタル化AI",
   "入口自体": false,
-  "地域": "東京都"
- },
- {
-  "depth": 2,
-  "error": "HTTP Error 404: Not Found",
-  "url": "https://www.tokyo-kosha.or.jp/support/josei/jigyo/tokkolpg/shienkin5th.html",
-  "入口": "東京都中小企業振興公社 助成金一覧",
-  "入口自体": false,
-  "地域": "東京都"
- },
- {
-  "depth": 2,
-  "error": "HTTP Error 404: Not Found",
-  "url": "https://www.tokyo-kosha.or.jp/support/josei/jigyo/tokkolpg/index.html",
-  "入口": "東京都中小企業振興公社 助成金一覧",
-  "入口自体": false,
-  "地域": "東京都"
+  "地域": "国"
  }
 ]

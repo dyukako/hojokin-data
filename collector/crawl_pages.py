@@ -74,7 +74,8 @@ def fetch(url, etag="", last_modified=""):
                 headers["If-None-Match"] = etag
             if last_modified:
                 headers["If-Modified-Since"] = last_modified
-            req = urllib.request.Request(url, headers=headers)
+            # 日本語のファイル名などをそのまま渡すと urllib が UnicodeEncodeError で落ちるので、%エンコードしてから取る
+            req = urllib.request.Request(quote_url(url), headers=headers)
             try:
                 with urllib.request.urlopen(req, timeout=40) as res:
                     ctype = (res.headers.get("Content-Type") or "").lower()
@@ -93,12 +94,17 @@ def fetch(url, etag="", last_modified=""):
             return body, ctype, final, new_etag, new_lm
         except NotModified:
             raise
-        except (urllib.error.URLError, urllib.error.HTTPError, TimeoutError, OSError, FetchError) as e:
+        except (urllib.error.URLError, urllib.error.HTTPError, TimeoutError, OSError, ValueError, FetchError) as e:
             last = str(e)
             if wait is None:
                 break
             time.sleep(wait)
     raise FetchError(last)
+
+
+def quote_url(u):
+    """URL中の非ASCII文字だけを%エンコードする（すでに%エンコード済みの部分はそのまま）"""
+    return urllib.parse.quote(u, safe=":/?#[]@!$&'()*+,;=%~")
 
 
 def links_of(html, base):
@@ -194,6 +200,11 @@ def crawl_source(area, src, index, failed, today, seen_keys):
             failed.append({"地域": area, "入口": src["name"], "url": url, "depth": depth, "error": str(e),
                            "入口自体": depth == 0})
             print(f"  !! {url} ({e})", flush=True)
+            continue
+        except Exception as e:  # 想定外のエラーでも全体は止めない。記録して次のページへ
+            failed.append({"地域": area, "入口": src["name"], "url": url, "depth": depth,
+                           "error": f"{type(e).__name__}: {e}", "入口自体": depth == 0})
+            print(f"  !! {url} ({type(e).__name__}: {e})", flush=True)
             continue
         is_html = "html" in ctype or body[:200].lower().lstrip().startswith(b"<!doctype") or b"<html" in body[:500].lower()
         is_pdf = "pdf" in ctype or body[:5] == b"%PDF-"

@@ -145,26 +145,25 @@
    ]
   },
   {
-   "name": "持続化補助金 商工会議所地区 公式（公募要領・参考資料・よくあるご質問）",
+   "name": "持続化補助金 商工会議所地区 公式（公募要領・参考資料・よくあるご質問のPDFだけ）",
    "url": "https://r6.jizokukahojokin.info/",
-   "depth": 2,
+   "depth": 1,
    "scope": [
     "https://r6.jizokukahojokin.info/"
    ],
    "exclude": [
-    "r6\\.jizokukahojokin\\.info/(noto|kumamoto)/"
+    "^r6\\.jizokukahojokin\\.info/(?!doc/r6_(koubover\\d+_ip|sanko_ip|qa_ip)\\d+\\.pdf$)"
    ],
-   "max_pages": 150
+   "max_pages": 60
   },
   {
-   "name": "持続化補助金 商工会地区 公式（公募要領・参考資料・よくあるご質問）",
+   "name": "持続化補助金 商工会地区 公式（申請についてページからリンクされた最新回の資料）",
    "url": "https://official.jizokukanb.com/shinsei",
    "depth": 1,
    "scope": [
-    "https://official.jizokukanb.com/shinsei",
     "https://official.jizokukanb.com/wp-content/uploads/"
    ],
-   "max_pages": 100
+   "max_pages": 30
   }
  ]
 }

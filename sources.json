@@ -143,6 +143,28 @@
    "exclude": [
     "^(youtube\\.com|mobile\\.twitter\\.com|gmpg\\.org)"
    ]
+  },
+  {
+   "name": "持続化補助金 商工会議所地区 公式（公募要領・参考資料・よくあるご質問）",
+   "url": "https://r6.jizokukahojokin.info/",
+   "depth": 2,
+   "scope": [
+    "https://r6.jizokukahojokin.info/"
+   ],
+   "exclude": [
+    "r6\\.jizokukahojokin\\.info/(noto|kumamoto)/"
+   ],
+   "max_pages": 150
+  },
+  {
+   "name": "持続化補助金 商工会地区 公式（公募要領・参考資料・よくあるご質問）",
+   "url": "https://official.jizokukanb.com/shinsei",
+   "depth": 1,
+   "scope": [
+    "https://official.jizokukanb.com/shinsei",
+    "https://official.jizokukanb.com/wp-content/uploads/"
+   ],
+   "max_pages": 100
   }
  ]
 }

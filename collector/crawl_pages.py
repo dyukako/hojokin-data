@@ -49,7 +49,7 @@ WAIT_SEC = 1.0
 WAIT_304_SEC = 0.3          # 変わっていないページ（304）のときの待ち
 RETRY_WAIT = (3, 10)
 MAX_PAGES_PER_SOURCE = 400      # 入口1つあたりの上限。超えたら scope が広すぎる。入口ごとに max_pages で変えられる
-MAX_BYTES = 8 * 1024 * 1024     # PDF等の上限
+MAX_BYTES = 20 * 1024 * 1024    # PDF等の上限（Q&A・公募要領は10MBを超えることがある）
 SKIP_EXT = re.compile(r"\.(jpe?g|png|gif|svg|webp|ico|css|js|zip|xlsx?|docx?|pptx?|mp4|mp3)(\?|$)", re.I)
 STRIP_TAGS = ("script", "style", "noscript", "iframe")
 
@@ -268,7 +268,13 @@ def main():
         counts[area] = 0
         for src in srcs:
             print(f"[{area}] {src['name']}", flush=True)
+            nfail = len(failed)
             n, unch = crawl_source(area, src, index, failed, today, seen_keys)
+            if any(f.get("入口自体") for f in failed[nfail:]):
+                # 入口が取れなかった（サイトに一時的に弾かれた等）。この入口から集めていたページは消さずに前回の分を残す
+                keep = [k for k, v in index.items() if v.get("地域") == area and v.get("入口") == src["name"]]
+                seen_keys.update(keep)
+                print(f"  入口が取れなかったので、前回の {len(keep)} ページをそのまま残す", flush=True)
             counts[area] += n
             unchanged_total += unch
             print(f"  {n}ページ（うち前回から変わらず {unch}）", flush=True)

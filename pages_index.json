@@ -100,6 +100,20 @@
   "入口": "調布市商工会 トピックス",
   "地域": "調布市"
  },
+ "00860da93957": {
+  "depth": 1,
+  "etag": "\"8c334a433297dc1:0\"",
+  "fetched_at": "2026-10-30 12:08",
+  "final_url": "https://portal.monodukuri-hojo.jp/common/bunsho/ippan/23th/%E5%85%AC%E5%8B%9F%E8%A6%81%E9%A0%98_23%E6%AC%A1%E7%B7%A0%E5%88%87_20260206.pdf",
+  "last_modified": "Fri, 06 Feb 2026 06:31:44 GMT",
+  "links": [],
+  "parent": "https://mirasapo-plus.go.jp/",
+  "title": "",
+  "type": "pdf",
+  "url": "https://portal.monodukuri-hojo.jp/common/bunsho/ippan/23th/%E5%85%AC%E5%8B%9F%E8%A6%81%E9%A0%98_23%E6%AC%A1%E7%B7%A0%E5%88%87_20260206.pdf",
+  "入口": "ミラサポplus 国が実施中の補助金一覧（各制度の公募要領へのリンク）",
+  "地域": "全国"
+ },
  "00c85847e453": {
   "depth": 1,
   "etag": "",
@@ -728,6 +742,20 @@
   "入口": "調布市産業労働支援センター",
   "地域": "調布市"
  },
+ "0339997b23c2": {
+  "depth": 1,
+  "etag": "\"aa3182dfb6e07cb73ea2de55d18117b5\"",
+  "fetched_at": "2026-10-30 12:08",
+  "final_url": "https://it-shien.smrj.go.jp/pdf/it2026_kaitei_koubo_denshi.pdf",
+  "last_modified": "Thu, 29 Oct 2026 01:58:36 GMT",
+  "links": [],
+  "parent": "https://mirasapo-plus.go.jp/",
+  "title": "",
+  "type": "pdf",
+  "url": "https://it-shien.smrj.go.jp/pdf/it2026_kaitei_koubo_denshi.pdf",
+  "入口": "ミラサポplus 国が実施中の補助金一覧（各制度の公募要領へのリンク）",
+  "地域": "全国"
+ },
  "038dba494821": {
   "depth": 2,
   "etag": "\"c0103-6577e31d80380\"",
@@ -1198,6 +1226,20 @@
   "url": "https://www.pref.shimane.lg.jp/industry/syoko/sangyo/kouri_tenpo/siryou/tokureikuiki.html",
   "入口": "島根県 中小企業課（新着）",
   "地域": "島根県"
+ },
+ "05f592b0a4cc": {
+  "depth": 1,
+  "etag": "\"c4caa-65bab4662364d\"",
+  "fetched_at": "2026-10-30 12:08",
+  "final_url": "https://shoryokuka.smrj.go.jp/assets/pdf/application_guidelines_ippan_08.pdf",
+  "last_modified": "Thu, 17 Sep 2026 10:30:38 GMT",
+  "links": [],
+  "parent": "https://mirasapo-plus.go.jp/",
+  "title": "",
+  "type": "pdf",
+  "url": "https://shoryokuka.smrj.go.jp/assets/pdf/application_guidelines_ippan_08.pdf",
+  "入口": "ミラサポplus 国が実施中の補助金一覧（各制度の公募要領へのリンク）",
+  "地域": "全国"
  },
  "062f6deab16a": {
   "depth": 1,
@@ -4907,6 +4949,20 @@
   "入口": "しまね産業振興財団 公募・助成金",
   "地域": "島根県"
  },
+ "1d0308aa454f": {
+  "depth": 1,
+  "etag": "\"999c8469fd1a21184815585b302f2272\"",
+  "fetched_at": "2026-10-30 12:08",
+  "final_url": "https://shoukei-mahojokin.go.jp/assets/documents/r7h/16-pmi/requirements_pmi_experts_16.pdf",
+  "last_modified": "Fri, 04 Sep 2026 06:00:08 GMT",
+  "links": [],
+  "parent": "https://mirasapo-plus.go.jp/",
+  "title": "",
+  "type": "pdf",
+  "url": "https://shoukei-mahojokin.go.jp/assets/documents/r7h/16-pmi/requirements_pmi_experts_16.pdf",
+  "入口": "ミラサポplus 国が実施中の補助金一覧（各制度の公募要領へのリンク）",
+  "地域": "全国"
+ },
  "1d197660a80a": {
   "depth": 1,
   "etag": "\"160b9c-8484-65e69ac780de1\"",
@@ -5649,6 +5705,31 @@
   "入口": "調布市商工会 トピックス",
   "地域": "調布市"
  },
+ "232b338fee2f": {
+  "depth": 1,
+  "etag": "",
+  "fetched_at": "2026-10-30 12:08",
+  "final_url": "https://mirasapo-plus.go.jp/subsidy/jizokuka/",
+  "last_modified": "",
+  "links": [
+   "https://mirasapo-plus.go.jp/subsidy/",
+   "https://mirasapo-plus.go.jp/subsidy/guide/",
+   "https://mirasapo-plus.go.jp/subsidy/ithojo/",
+   "https://mirasapo-plus.go.jp/subsidy/shoryokuka/",
+   "https://mirasapo-plus.go.jp/subsidy/shinjigyoumanufacturing/",
+   "https://mirasapo-plus.go.jp/subsidy/seityo/",
+   "https://mirasapo-plus.go.jp/subsidy/syokei/",
+   "https://mirasapo-plus.go.jp/subsidy/manufacturing/",
+   "https://mirasapo-plus.go.jp/subsidy/shinjigyou/",
+   "https://mirasapo-plus.go.jp/subsidy/jizokuka/"
+  ],
+  "parent": "https://mirasapo-plus.go.jp/",
+  "title": "小規模事業者持続化補助金 | 経済産業省 中小企業庁",
+  "type": "html",
+  "url": "https://mirasapo-plus.go.jp/subsidy/jizokuka/",
+  "入口": "ミラサポplus 国が実施中の補助金一覧（各制度の公募要領へのリンク）",
+  "地域": "全国"
+ },
  "237cbe4be8c5": {
   "depth": 2,
   "etag": "\"1d20f-5735d88831cc0\"",
@@ -5918,6 +5999,34 @@
   "url": "https://www.pref.shimane.lg.jp/industry/syoko/sangyo/chusho/kyosai.html",
   "入口": "島根県 中小企業支援（目的別メニュー）",
   "地域": "島根県"
+ },
+ "24f52a7e605b": {
+  "depth": 1,
+  "etag": "\"3aa371ce0545b8dff27704d673c6befc\"",
+  "fetched_at": "2026-10-30 12:08",
+  "final_url": "https://shoukei-mahojokin.go.jp/assets/documents/r7h/16-succession/requirements_succession_16.pdf",
+  "last_modified": "Fri, 04 Sep 2026 06:00:08 GMT",
+  "links": [],
+  "parent": "https://mirasapo-plus.go.jp/",
+  "title": "",
+  "type": "pdf",
+  "url": "https://shoukei-mahojokin.go.jp/assets/documents/r7h/16-succession/requirements_succession_16.pdf",
+  "入口": "ミラサポplus 国が実施中の補助金一覧（各制度の公募要領へのリンク）",
+  "地域": "全国"
+ },
+ "250f0a50671b": {
+  "depth": 1,
+  "etag": "\"abac80035da9dc912097c9628ae3147c\"",
+  "fetched_at": "2026-10-30 12:08",
+  "final_url": "https://www.meti.go.jp/",
+  "last_modified": "Fri, 30 Oct 2026 01:30:05 GMT",
+  "links": [],
+  "parent": "https://mirasapo-plus.go.jp/",
+  "title": "経済産業省のWEBサイト（METI/経済産業省）",
+  "type": "html",
+  "url": "https://www.meti.go.jp/",
+  "入口": "ミラサポplus 国が実施中の補助金一覧（各制度の公募要領へのリンク）",
+  "地域": "全国"
  },
  "2545caefeea9": {
   "depth": 2,
@@ -6694,6 +6803,20 @@
   "入口": "島根県 中小企業支援（目的別メニュー）",
   "地域": "島根県"
  },
+ "277006b5f77f": {
+  "depth": 1,
+  "etag": "\"0ee06a020dfc862372b73ae04fe81072\"",
+  "fetched_at": "2026-10-30 12:08",
+  "final_url": "https://it-shien.smrj.go.jp/pdf/it2026_koubo_fukusu.pdf",
+  "last_modified": "Thu, 29 Oct 2026 01:58:36 GMT",
+  "links": [],
+  "parent": "https://mirasapo-plus.go.jp/",
+  "title": "",
+  "type": "pdf",
+  "url": "https://it-shien.smrj.go.jp/pdf/it2026_koubo_fukusu.pdf",
+  "入口": "ミラサポplus 国が実施中の補助金一覧（各制度の公募要領へのリンク）",
+  "地域": "全国"
+ },
  "277d65ef37ad": {
   "depth": 2,
   "etag": "\"3233e5-6577e2c7ab900\"",
@@ -7227,6 +7350,31 @@
   "url": "https://www.tokyo-kosha.or.jp/support/josei/jigyo/senior-hanro/index.html",
   "入口": "東京都中小企業振興公社 助成金一覧",
   "地域": "東京都"
+ },
+ "2beed9f838c0": {
+  "depth": 1,
+  "etag": "",
+  "fetched_at": "2026-10-30 12:08",
+  "final_url": "https://mirasapo-plus.go.jp/subsidy/shinjigyoumanufacturing/",
+  "last_modified": "",
+  "links": [
+   "https://mirasapo-plus.go.jp/subsidy/",
+   "https://mirasapo-plus.go.jp/subsidy/guide/",
+   "https://mirasapo-plus.go.jp/subsidy/jizokuka/",
+   "https://mirasapo-plus.go.jp/subsidy/ithojo/",
+   "https://mirasapo-plus.go.jp/subsidy/shoryokuka/",
+   "https://mirasapo-plus.go.jp/subsidy/seityo/",
+   "https://mirasapo-plus.go.jp/subsidy/syokei/",
+   "https://mirasapo-plus.go.jp/subsidy/manufacturing/",
+   "https://mirasapo-plus.go.jp/subsidy/shinjigyou/",
+   "https://mirasapo-plus.go.jp/subsidy/shinjigyoumanufacturing/"
+  ],
+  "parent": "https://mirasapo-plus.go.jp/",
+  "title": "新事業進出・ものづくり商業サービス補助金 | 経済産業省 中小企業庁",
+  "type": "html",
+  "url": "https://mirasapo-plus.go.jp/subsidy/shinjigyoumanufacturing/",
+  "入口": "ミラサポplus 国が実施中の補助金一覧（各制度の公募要領へのリンク）",
+  "地域": "全国"
  },
  "2c27916207f2": {
   "depth": 2,
@@ -8972,6 +9120,20 @@
   "入口": "島根県 中小企業支援（目的別メニュー）",
   "地域": "島根県"
  },
+ "35d11e11366d": {
+  "depth": 1,
+  "etag": "\"60d9b5d3fb23303338fa6ff119adeed3\"",
+  "fetched_at": "2026-10-30 12:08",
+  "final_url": "https://www.chusho.meti.go.jp/",
+  "last_modified": "Fri, 30 Oct 2026 01:00:07 GMT",
+  "links": [],
+  "parent": "https://mirasapo-plus.go.jp/",
+  "title": "経済産業省 中小企業庁",
+  "type": "html",
+  "url": "https://www.chusho.meti.go.jp/",
+  "入口": "ミラサポplus 国が実施中の補助金一覧（各制度の公募要領へのリンク）",
+  "地域": "全国"
+ },
  "35f023000bea": {
   "depth": 2,
   "etag": "\"373a-65e53c2989c52\"",
@@ -10287,6 +10449,31 @@
   "入口": "島根県 中小企業支援（目的別メニュー）",
   "地域": "島根県"
  },
+ "3e9ab1b9d225": {
+  "depth": 1,
+  "etag": "",
+  "fetched_at": "2026-10-30 12:08",
+  "final_url": "https://mirasapo-plus.go.jp/subsidy/syokei/",
+  "last_modified": "",
+  "links": [
+   "https://mirasapo-plus.go.jp/subsidy/",
+   "https://mirasapo-plus.go.jp/subsidy/guide/",
+   "https://mirasapo-plus.go.jp/subsidy/jizokuka/",
+   "https://mirasapo-plus.go.jp/subsidy/ithojo/",
+   "https://mirasapo-plus.go.jp/subsidy/shoryokuka/",
+   "https://mirasapo-plus.go.jp/subsidy/shinjigyoumanufacturing/",
+   "https://mirasapo-plus.go.jp/subsidy/seityo/",
+   "https://mirasapo-plus.go.jp/subsidy/manufacturing/",
+   "https://mirasapo-plus.go.jp/subsidy/shinjigyou/",
+   "https://mirasapo-plus.go.jp/subsidy/syokei/"
+  ],
+  "parent": "https://mirasapo-plus.go.jp/",
+  "title": "事業承継・M＆A補助金 | 経済産業省 中小企業庁",
+  "type": "html",
+  "url": "https://mirasapo-plus.go.jp/subsidy/syokei/",
+  "入口": "ミラサポplus 国が実施中の補助金一覧（各制度の公募要領へのリンク）",
+  "地域": "全国"
+ },
  "3ec449b242f8": {
   "depth": 1,
   "etag": "",
@@ -10645,6 +10832,31 @@
   "入口": "島根県 中小企業支援（目的別メニュー）",
   "地域": "島根県"
  },
+ "40033b599044": {
+  "depth": 1,
+  "etag": "",
+  "fetched_at": "2026-10-30 12:08",
+  "final_url": "https://mirasapo-plus.go.jp/subsidy/manufacturing/",
+  "last_modified": "",
+  "links": [
+   "https://mirasapo-plus.go.jp/subsidy/",
+   "https://mirasapo-plus.go.jp/subsidy/guide/",
+   "https://mirasapo-plus.go.jp/subsidy/jizokuka/",
+   "https://mirasapo-plus.go.jp/subsidy/ithojo/",
+   "https://mirasapo-plus.go.jp/subsidy/shoryokuka/",
+   "https://mirasapo-plus.go.jp/subsidy/shinjigyoumanufacturing/",
+   "https://mirasapo-plus.go.jp/subsidy/seityo/",
+   "https://mirasapo-plus.go.jp/subsidy/syokei/",
+   "https://mirasapo-plus.go.jp/subsidy/shinjigyou/",
+   "https://mirasapo-plus.go.jp/subsidy/manufacturing/"
+  ],
+  "parent": "https://mirasapo-plus.go.jp/",
+  "title": "ものづくり補助金 | 経済産業省 中小企業庁",
+  "type": "html",
+  "url": "https://mirasapo-plus.go.jp/subsidy/manufacturing/",
+  "入口": "ミラサポplus 国が実施中の補助金一覧（各制度の公募要領へのリンク）",
+  "地域": "全国"
+ },
  "402a240669c5": {
   "depth": 1,
   "etag": "",
@@ -10672,6 +10884,20 @@
   "url": "https://www.pref.shimane.lg.jp/industry/syoko/sangyo/yuushi/r8jishinshikin.data/youkou_R080401.pdf",
   "入口": "島根県 中小企業課（新着）",
   "地域": "島根県"
+ },
+ "40ec49320cc6": {
+  "depth": 1,
+  "etag": "\"c2e39-65e404be4be90\"",
+  "fetched_at": "2026-10-30 12:08",
+  "final_url": "https://shoryokuka.smrj.go.jp/assets/pdf/application_guidelines_catalog.pdf",
+  "last_modified": "Tue, 20 Oct 2026 07:08:24 GMT",
+  "links": [],
+  "parent": "https://mirasapo-plus.go.jp/",
+  "title": "",
+  "type": "pdf",
+  "url": "https://shoryokuka.smrj.go.jp/assets/pdf/application_guidelines_catalog.pdf",
+  "入口": "ミラサポplus 国が実施中の補助金一覧（各制度の公募要領へのリンク）",
+  "地域": "全国"
  },
  "40faa93f9cfe": {
   "depth": 2,
@@ -10755,6 +10981,20 @@
   "url": "https://www.tokyo-kosha.or.jp/support/josei/jigyo/soui-challenge/shin-shijou/h0iqeh000000pwvq-att/R8soui-challenge_shin-shijou_manual_denshi.pdf",
   "入口": "東京都中小企業振興公社 助成金一覧",
   "地域": "東京都"
+ },
+ "41459e6c8dd8": {
+  "depth": 1,
+  "etag": "\"1ad162244abcecf72aafa87b7cdac588\"",
+  "fetched_at": "2026-10-30 12:08",
+  "final_url": "https://it-shien.smrj.go.jp/pdf/it2026_kaitei_koubo_invoice.pdf",
+  "last_modified": "Thu, 29 Oct 2026 01:58:36 GMT",
+  "links": [],
+  "parent": "https://mirasapo-plus.go.jp/",
+  "title": "",
+  "type": "pdf",
+  "url": "https://it-shien.smrj.go.jp/pdf/it2026_kaitei_koubo_invoice.pdf",
+  "入口": "ミラサポplus 国が実施中の補助金一覧（各制度の公募要領へのリンク）",
+  "地域": "全国"
  },
  "414b20da8ff2": {
   "depth": 1,
@@ -11864,6 +12104,20 @@
   "url": "https://www.chofusci.com/aboutus/summary/start",
   "入口": "調布市商工会 助成事業",
   "地域": "調布市"
+ },
+ "4a793a447aac": {
+  "depth": 1,
+  "etag": "\"12e0f4-652d9531f8f00\"",
+  "fetched_at": "2026-10-30 12:08",
+  "final_url": "https://r6.jizokukahojokin.info/sogyo/doc/r6_koubover8_sogyo4.pdf",
+  "last_modified": "Thu, 28 May 2026 04:40:16 GMT",
+  "links": [],
+  "parent": "https://mirasapo-plus.go.jp/",
+  "title": "",
+  "type": "pdf",
+  "url": "https://r6.jizokukahojokin.info/sogyo/doc/r6_koubover8_sogyo4.pdf",
+  "入口": "ミラサポplus 国が実施中の補助金一覧（各制度の公募要領へのリンク）",
+  "地域": "全国"
  },
  "4aa890d3ebd2": {
   "depth": 1,
@@ -13389,6 +13643,20 @@
   "入口": "島根県 中小企業支援（目的別メニュー）",
   "地域": "島根県"
  },
+ "551259a8ebc2": {
+  "depth": 1,
+  "etag": "\"6282825b746634e35a2c9b0cd552af54\"",
+  "fetched_at": "2026-10-30 12:08",
+  "final_url": "https://shoukei-mahojokin.go.jp/assets/documents/r7h/16-experts/requirements_experts_16.pdf",
+  "last_modified": "Fri, 04 Sep 2026 06:00:08 GMT",
+  "links": [],
+  "parent": "https://mirasapo-plus.go.jp/",
+  "title": "",
+  "type": "pdf",
+  "url": "https://shoukei-mahojokin.go.jp/assets/documents/r7h/16-experts/requirements_experts_16.pdf",
+  "入口": "ミラサポplus 国が実施中の補助金一覧（各制度の公募要領へのリンク）",
+  "地域": "全国"
+ },
  "5523e8e0753b": {
   "depth": 2,
   "etag": "\"4e8db-65af5cb79f73a\"",
@@ -13645,6 +13913,31 @@
   "url": "https://www.tokyo-kosha.or.jp/support/josei/jigyo/rmepal000003cv3a-att/r7_anzen-anshin_flyer.pdf",
   "入口": "東京都中小企業振興公社 助成金一覧",
   "地域": "東京都"
+ },
+ "56718d18c860": {
+  "depth": 1,
+  "etag": "",
+  "fetched_at": "2026-10-30 12:08",
+  "final_url": "https://mirasapo-plus.go.jp/subsidy/ithojo/",
+  "last_modified": "",
+  "links": [
+   "https://mirasapo-plus.go.jp/subsidy/",
+   "https://mirasapo-plus.go.jp/subsidy/guide/",
+   "https://mirasapo-plus.go.jp/subsidy/jizokuka/",
+   "https://mirasapo-plus.go.jp/subsidy/shoryokuka/",
+   "https://mirasapo-plus.go.jp/subsidy/shinjigyoumanufacturing/",
+   "https://mirasapo-plus.go.jp/subsidy/seityo/",
+   "https://mirasapo-plus.go.jp/subsidy/syokei/",
+   "https://mirasapo-plus.go.jp/subsidy/manufacturing/",
+   "https://mirasapo-plus.go.jp/subsidy/shinjigyou/",
+   "https://mirasapo-plus.go.jp/subsidy/ithojo/"
+  ],
+  "parent": "https://mirasapo-plus.go.jp/",
+  "title": "デジタル化・AI導入補助金 | 経済産業省 中小企業庁",
+  "type": "html",
+  "url": "https://mirasapo-plus.go.jp/subsidy/ithojo/",
+  "入口": "ミラサポplus 国が実施中の補助金一覧（各制度の公募要領へのリンク）",
+  "地域": "全国"
  },
  "568388bd0a7f": {
   "depth": 1,
@@ -15944,6 +16237,20 @@
   "入口": "島根県 中小企業支援（目的別メニュー）",
   "地域": "島根県"
  },
+ "64a40c1a8888": {
+  "depth": 1,
+  "etag": "\"0bb8082604c9da8913c0fab6aeaa7498\"",
+  "fetched_at": "2026-10-30 12:08",
+  "final_url": "https://shoukei-mahojokin.go.jp/assets/documents/r7h/16-experts/requirements_experts_sb_16.pdf",
+  "last_modified": "Fri, 04 Sep 2026 06:00:08 GMT",
+  "links": [],
+  "parent": "https://mirasapo-plus.go.jp/",
+  "title": "",
+  "type": "pdf",
+  "url": "https://shoukei-mahojokin.go.jp/assets/documents/r7h/16-experts/requirements_experts_sb_16.pdf",
+  "入口": "ミラサポplus 国が実施中の補助金一覧（各制度の公募要領へのリンク）",
+  "地域": "全国"
+ },
  "65230e32c103": {
   "depth": 1,
   "etag": "",
@@ -17864,6 +18171,31 @@
   "url": "https://www.tokyo-kosha.or.jp/support/shien/syakai-jissou/uu7kh9000000ioef-att/R8_jisso_yoko.pdf",
   "入口": "東京都中小企業振興公社 助成金一覧",
   "地域": "東京都"
+ },
+ "6e496528de3f": {
+  "depth": 1,
+  "etag": "",
+  "fetched_at": "2026-10-30 12:08",
+  "final_url": "https://mirasapo-plus.go.jp/subsidy/guide/",
+  "last_modified": "",
+  "links": [
+   "https://mirasapo-plus.go.jp/subsidy/",
+   "https://mirasapo-plus.go.jp/subsidy/guide/",
+   "https://mirasapo-plus.go.jp/subsidy/jizokuka/",
+   "https://mirasapo-plus.go.jp/subsidy/ithojo/",
+   "https://mirasapo-plus.go.jp/subsidy/shoryokuka/",
+   "https://mirasapo-plus.go.jp/subsidy/shinjigyoumanufacturing/",
+   "https://mirasapo-plus.go.jp/subsidy/seityo/",
+   "https://mirasapo-plus.go.jp/subsidy/syokei/",
+   "https://mirasapo-plus.go.jp/subsidy/manufacturing/",
+   "https://mirasapo-plus.go.jp/subsidy/shinjigyou/"
+  ],
+  "parent": "https://mirasapo-plus.go.jp/",
+  "title": "補助金とは | 経済産業省 中小企業庁",
+  "type": "html",
+  "url": "https://mirasapo-plus.go.jp/subsidy/guide/",
+  "入口": "ミラサポplus 国が実施中の補助金一覧（各制度の公募要領へのリンク）",
+  "地域": "全国"
  },
  "6e67c412eda2": {
   "depth": 1,
@@ -20179,6 +20511,31 @@
   "入口": "東京都産業労働局 商工・助成",
   "地域": "東京都"
  },
+ "7d0d35231b49": {
+  "depth": 1,
+  "etag": "",
+  "fetched_at": "2026-10-30 12:08",
+  "final_url": "https://mirasapo-plus.go.jp/subsidy/shoryokuka/",
+  "last_modified": "",
+  "links": [
+   "https://mirasapo-plus.go.jp/subsidy/",
+   "https://mirasapo-plus.go.jp/subsidy/guide/",
+   "https://mirasapo-plus.go.jp/subsidy/jizokuka/",
+   "https://mirasapo-plus.go.jp/subsidy/ithojo/",
+   "https://mirasapo-plus.go.jp/subsidy/shinjigyoumanufacturing/",
+   "https://mirasapo-plus.go.jp/subsidy/seityo/",
+   "https://mirasapo-plus.go.jp/subsidy/syokei/",
+   "https://mirasapo-plus.go.jp/subsidy/manufacturing/",
+   "https://mirasapo-plus.go.jp/subsidy/shinjigyou/",
+   "https://mirasapo-plus.go.jp/subsidy/shoryokuka/"
+  ],
+  "parent": "https://mirasapo-plus.go.jp/",
+  "title": "省力化投資補助金 | 経済産業省 中小企業庁",
+  "type": "html",
+  "url": "https://mirasapo-plus.go.jp/subsidy/shoryokuka/",
+  "入口": "ミラサポplus 国が実施中の補助金一覧（各制度の公募要領へのリンク）",
+  "地域": "全国"
+ },
  "7d30bfe384eb": {
   "depth": 1,
   "etag": "\"340f1-65df7df6922d1\"",
@@ -21466,6 +21823,31 @@
   "入口": "東京都中小企業振興公社 助成金一覧",
   "地域": "東京都"
  },
+ "840614739126": {
+  "depth": 1,
+  "etag": "",
+  "fetched_at": "2026-10-30 12:08",
+  "final_url": "https://mirasapo-plus.go.jp/subsidy/shinjigyou/",
+  "last_modified": "",
+  "links": [
+   "https://mirasapo-plus.go.jp/subsidy/",
+   "https://mirasapo-plus.go.jp/subsidy/guide/",
+   "https://mirasapo-plus.go.jp/subsidy/jizokuka/",
+   "https://mirasapo-plus.go.jp/subsidy/ithojo/",
+   "https://mirasapo-plus.go.jp/subsidy/shoryokuka/",
+   "https://mirasapo-plus.go.jp/subsidy/shinjigyoumanufacturing/",
+   "https://mirasapo-plus.go.jp/subsidy/seityo/",
+   "https://mirasapo-plus.go.jp/subsidy/syokei/",
+   "https://mirasapo-plus.go.jp/subsidy/manufacturing/",
+   "https://mirasapo-plus.go.jp/subsidy/shinjigyou/"
+  ],
+  "parent": "https://mirasapo-plus.go.jp/",
+  "title": "新事業進出補助金 | 経済産業省 中小企業庁",
+  "type": "html",
+  "url": "https://mirasapo-plus.go.jp/subsidy/shinjigyou/",
+  "入口": "ミラサポplus 国が実施中の補助金一覧（各制度の公募要領へのリンク）",
+  "地域": "全国"
+ },
  "841e84a4e372": {
   "depth": 2,
   "etag": "\"3d3997-65b661ddbcd80\"",
@@ -22294,6 +22676,31 @@
   "url": "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/syoutengaishinkoujigyou/bouhansetubiiji.html",
   "入口": "渋谷区 事業者向け情報（商工・労働・相談）",
   "地域": "渋谷区"
+ },
+ "8ac59cfab42e": {
+  "depth": 1,
+  "etag": "",
+  "fetched_at": "2026-10-30 12:08",
+  "final_url": "https://mirasapo-plus.go.jp/subsidy/seityo/",
+  "last_modified": "",
+  "links": [
+   "https://mirasapo-plus.go.jp/subsidy/",
+   "https://mirasapo-plus.go.jp/subsidy/guide/",
+   "https://mirasapo-plus.go.jp/subsidy/jizokuka/",
+   "https://mirasapo-plus.go.jp/subsidy/ithojo/",
+   "https://mirasapo-plus.go.jp/subsidy/shoryokuka/",
+   "https://mirasapo-plus.go.jp/subsidy/shinjigyoumanufacturing/",
+   "https://mirasapo-plus.go.jp/subsidy/syokei/",
+   "https://mirasapo-plus.go.jp/subsidy/manufacturing/",
+   "https://mirasapo-plus.go.jp/subsidy/shinjigyou/",
+   "https://mirasapo-plus.go.jp/subsidy/seityo/"
+  ],
+  "parent": "https://mirasapo-plus.go.jp/",
+  "title": "中小企業成長加速化補助金 | 経済産業省 中小企業庁",
+  "type": "html",
+  "url": "https://mirasapo-plus.go.jp/subsidy/seityo/",
+  "入口": "ミラサポplus 国が実施中の補助金一覧（各制度の公募要領へのリンク）",
+  "地域": "全国"
  },
  "8b25ae01c82b": {
   "depth": 2,
@@ -23560,6 +23967,34 @@
   "入口": "出雲市 商工振興課 情報一覧",
   "地域": "出雲市"
  },
+ "91eb6282cd8a": {
+  "depth": 1,
+  "etag": "",
+  "fetched_at": "2026-10-30 12:08",
+  "final_url": "https://mirasapo-plus.go.jp/subsidy/",
+  "last_modified": "",
+  "links": [
+   "https://mirasapo-plus.go.jp/subsidy/",
+   "https://mirasapo-plus.go.jp/subsidy/guide/",
+   "https://mirasapo-plus.go.jp/subsidy/jizokuka/",
+   "https://mirasapo-plus.go.jp/subsidy/ithojo",
+   "https://mirasapo-plus.go.jp/subsidy/shoryokuka/",
+   "https://mirasapo-plus.go.jp/subsidy/shinjigyoumanufacturing",
+   "https://mirasapo-plus.go.jp/subsidy/seityo/",
+   "https://mirasapo-plus.go.jp/subsidy/syokei/",
+   "https://mirasapo-plus.go.jp/subsidy/manufacturing",
+   "https://mirasapo-plus.go.jp/subsidy/shinjigyou/",
+   "https://mirasapo-plus.go.jp/subsidy/ithojo/",
+   "https://mirasapo-plus.go.jp/subsidy/shinjigyoumanufacturing/",
+   "https://mirasapo-plus.go.jp/subsidy/manufacturing/"
+  ],
+  "parent": "https://mirasapo-plus.go.jp/",
+  "title": "人気の補助金 | 経済産業省 中小企業庁",
+  "type": "html",
+  "url": "https://mirasapo-plus.go.jp/subsidy/",
+  "入口": "ミラサポplus 国が実施中の補助金一覧（各制度の公募要領へのリンク）",
+  "地域": "全国"
+ },
  "926d534fd1a4": {
   "depth": 2,
   "etag": "\"eb924-653573c45bdbb\"",
@@ -23935,6 +24370,20 @@
   "url": "https://chofu-industry.jp/toppage/rights/",
   "入口": "調布市産業労働支援センター",
   "地域": "調布市"
+ },
+ "9447f012909b": {
+  "depth": 1,
+  "etag": "\"15ed11-659607e19f798\"",
+  "fetched_at": "2026-10-30 12:08",
+  "final_url": "https://r6.kyodokyogyohojokin.info/doc/r6_koubover6_kk3.pdf",
+  "last_modified": "Wed, 19 Aug 2026 06:27:07 GMT",
+  "links": [],
+  "parent": "https://mirasapo-plus.go.jp/",
+  "title": "",
+  "type": "pdf",
+  "url": "https://r6.kyodokyogyohojokin.info/doc/r6_koubover6_kk3.pdf",
+  "入口": "ミラサポplus 国が実施中の補助金一覧（各制度の公募要領へのリンク）",
+  "地域": "全国"
  },
  "946e8e8a8c21": {
   "depth": 2,
@@ -24499,6 +24948,20 @@
   "url": "https://www.pref.shimane.lg.jp/industry/syoko/sangyo/kouri_tenpo/todokede/R4/reiwa4_todokedebun.html",
   "入口": "島根県 中小企業課（新着）",
   "地域": "島根県"
+ },
+ "9af80298a7b7": {
+  "depth": 1,
+  "etag": "\"51207a-65e2cb9ba100e\"",
+  "fetched_at": "2026-10-30 12:08",
+  "final_url": "https://r6.jizokukahojokin.info/kumamoto/doc/r6_koubover3_kumamoto2.pdf",
+  "last_modified": "Mon, 19 Oct 2026 07:47:27 GMT",
+  "links": [],
+  "parent": "https://mirasapo-plus.go.jp/",
+  "title": "",
+  "type": "pdf",
+  "url": "https://r6.jizokukahojokin.info/kumamoto/doc/r6_koubover3_kumamoto2.pdf",
+  "入口": "ミラサポplus 国が実施中の補助金一覧（各制度の公募要領へのリンク）",
+  "地域": "全国"
  },
  "9b1f9c6535c3": {
   "depth": 2,
@@ -28004,6 +28467,20 @@
   "入口": "東京都産業労働局 商工・助成",
   "地域": "東京都"
  },
+ "b0cd7cec3843": {
+  "depth": 1,
+  "etag": "\"0e83d9a94d3cb8c350241983569804e5\"",
+  "fetched_at": "2026-10-30 12:08",
+  "final_url": "https://shoukei-mahojokin.go.jp/assets/documents/r7h/16-pmi/requirements_pmi_investment_16.pdf",
+  "last_modified": "Fri, 04 Sep 2026 06:00:08 GMT",
+  "links": [],
+  "parent": "https://mirasapo-plus.go.jp/",
+  "title": "",
+  "type": "pdf",
+  "url": "https://shoukei-mahojokin.go.jp/assets/documents/r7h/16-pmi/requirements_pmi_investment_16.pdf",
+  "入口": "ミラサポplus 国が実施中の補助金一覧（各制度の公募要領へのリンク）",
+  "地域": "全国"
+ },
  "b0d1e87aa461": {
   "depth": 2,
   "etag": "\"4c5a-65e61e9c367c0\"",
@@ -29265,6 +29742,20 @@
   "入口": "調布市産業労働支援センター",
   "地域": "調布市"
  },
+ "b9161022a26b": {
+  "depth": 1,
+  "etag": "\"06cee71454dc8aa0e48eb2bed9b638f9\"",
+  "fetched_at": "2026-10-30 12:08",
+  "final_url": "https://it-shien.smrj.go.jp/pdf/it2026_kaitei_koubo_security.pdf",
+  "last_modified": "Thu, 29 Oct 2026 01:58:36 GMT",
+  "links": [],
+  "parent": "https://mirasapo-plus.go.jp/",
+  "title": "",
+  "type": "pdf",
+  "url": "https://it-shien.smrj.go.jp/pdf/it2026_kaitei_koubo_security.pdf",
+  "入口": "ミラサポplus 国が実施中の補助金一覧（各制度の公募要領へのリンク）",
+  "地域": "全国"
+ },
  "b95d67baf9c0": {
   "depth": 2,
   "etag": "\"71e3-65dec5ca13e00\"",
@@ -30415,6 +30906,20 @@
   "入口": "東京都中小企業振興公社 助成金一覧",
   "地域": "東京都"
  },
+ "bf2274741201": {
+  "depth": 1,
+  "etag": "\"cb2668ede3d2d369b903f1c3034042be\"",
+  "fetched_at": "2026-10-30 12:08",
+  "final_url": "https://shinjigyou-monodukuri.smrj.go.jp/assets/documents/shinmono_application_guidelines_01.pdf",
+  "last_modified": "Mon, 26 Oct 2026 00:59:58 GMT",
+  "links": [],
+  "parent": "https://mirasapo-plus.go.jp/",
+  "title": "",
+  "type": "pdf",
+  "url": "https://shinjigyou-monodukuri.smrj.go.jp/assets/documents/shinmono_application_guidelines_01.pdf",
+  "入口": "ミラサポplus 国が実施中の補助金一覧（各制度の公募要領へのリンク）",
+  "地域": "全国"
+ },
  "bf6c8c83f103": {
   "depth": 1,
   "etag": "\"32363-65e25fca54015\"",
@@ -31193,6 +31698,20 @@
   "入口": "調布市 融資・助成",
   "地域": "調布市"
  },
+ "c468275b429b": {
+  "depth": 1,
+  "etag": "\"1dcf7b-64ddc82de1400\"",
+  "fetched_at": "2026-10-30 12:08",
+  "final_url": "https://shinjigyou-shinshutsu.smrj.go.jp/docs/shinjigyou_koubo_4.pdf",
+  "last_modified": "Wed, 25 Mar 2026 17:22:24 GMT",
+  "links": [],
+  "parent": "https://mirasapo-plus.go.jp/",
+  "title": "",
+  "type": "pdf",
+  "url": "https://shinjigyou-shinshutsu.smrj.go.jp/docs/shinjigyou_koubo_4.pdf",
+  "入口": "ミラサポplus 国が実施中の補助金一覧（各制度の公募要領へのリンク）",
+  "地域": "全国"
+ },
  "c46c7f838bb3": {
   "depth": 2,
   "etag": "\"438e7a-6577e31d80380\"",
@@ -31404,6 +31923,20 @@
   "url": "https://www.pref.shimane.lg.jp/industry/syoko/sangyo/chusho/r7hosei-energycost_sakugentaisaku.data/03-2_manual_r7hosei_sinsei_yousiki_nyuuryoku_0216.pdf",
   "入口": "島根県 中小企業課（新着）",
   "地域": "島根県"
+ },
+ "c552da0b5cb2": {
+  "depth": 1,
+  "etag": "\"21a9be98f4ed0cc09547acdc2db28317\"",
+  "fetched_at": "2026-10-30 12:08",
+  "final_url": "https://shoukei-mahojokin.go.jp/assets/documents/r7h/16-experts/requirements_experts_10bn_16.pdf",
+  "last_modified": "Fri, 04 Sep 2026 06:00:07 GMT",
+  "links": [],
+  "parent": "https://mirasapo-plus.go.jp/",
+  "title": "",
+  "type": "pdf",
+  "url": "https://shoukei-mahojokin.go.jp/assets/documents/r7h/16-experts/requirements_experts_10bn_16.pdf",
+  "入口": "ミラサポplus 国が実施中の補助金一覧（各制度の公募要領へのリンク）",
+  "地域": "全国"
  },
  "c58614430178": {
   "depth": 2,
@@ -32217,6 +32750,20 @@
   "url": "https://www.pref.shimane.lg.jp/industry/syoko/sangyo/yuushi/richi.data/H26hatsuden.pdf",
   "入口": "島根県 中小企業課（新着）",
   "地域": "島根県"
+ },
+ "ca076f7d549c": {
+  "depth": 1,
+  "etag": "\"4e8796-65791bb99bf89\"",
+  "fetched_at": "2026-10-30 12:08",
+  "final_url": "https://r6.jizokukahojokin.info/noto/doc/r6_koubover11_noto10.pdf",
+  "last_modified": "Mon, 27 Jul 2026 06:21:29 GMT",
+  "links": [],
+  "parent": "https://mirasapo-plus.go.jp/",
+  "title": "",
+  "type": "pdf",
+  "url": "https://r6.jizokukahojokin.info/noto/doc/r6_koubover11_noto10.pdf",
+  "入口": "ミラサポplus 国が実施中の補助金一覧（各制度の公募要領へのリンク）",
+  "地域": "全国"
  },
  "ca6ac0ec0d95": {
   "depth": 1,
@@ -33226,6 +33773,20 @@
   "url": "https://www.tokyo-kosha.or.jp/support/shien/monozukuri/rmepal000003b87y-att/2026_kouiki_youkou.pdf",
   "入口": "東京都中小企業振興公社 助成金一覧",
   "地域": "東京都"
+ },
+ "cf1e23891792": {
+  "depth": 1,
+  "etag": "\"7a01acdf4612949894c383bae827a8f3\"",
+  "fetched_at": "2026-10-30 12:08",
+  "final_url": "https://it-shien.smrj.go.jp/pdf/it2026_kaitei_koubo_tsujyo.pdf",
+  "last_modified": "Thu, 29 Oct 2026 01:58:36 GMT",
+  "links": [],
+  "parent": "https://mirasapo-plus.go.jp/",
+  "title": "",
+  "type": "pdf",
+  "url": "https://it-shien.smrj.go.jp/pdf/it2026_kaitei_koubo_tsujyo.pdf",
+  "入口": "ミラサポplus 国が実施中の補助金一覧（各制度の公募要領へのリンク）",
+  "地域": "全国"
  },
  "cf8714d152b8": {
   "depth": 2,
@@ -36007,6 +36568,57 @@
   "入口": "島根県 中小企業課（新着）",
   "地域": "島根県"
  },
+ "e0dfd768cdd1": {
+  "depth": 0,
+  "etag": "",
+  "fetched_at": "2026-10-30 12:08",
+  "final_url": "https://mirasapo-plus.go.jp/",
+  "last_modified": "",
+  "links": [
+   "https://www.chusho.meti.go.jp/",
+   "https://mirasapo-plus.go.jp/subsidy/",
+   "https://mirasapo-plus.go.jp/subsidy/guide/",
+   "https://www.meti.govbot.go.jp/",
+   "https://mirasapo-plus.go.jp/subsidy/jizokuka/",
+   "https://r6.jizokukahojokin.info/doc/r6_koubover8_ip20.pdf",
+   "https://r6.jizokukahojokin.info/noto/doc/r6_koubover11_noto10.pdf",
+   "https://r6.jizokukahojokin.info/kumamoto/doc/r6_koubover3_kumamoto2.pdf",
+   "https://r6.jizokukahojokin.info/sogyo/doc/r6_koubover8_sogyo4.pdf",
+   "https://r6.kyodokyogyohojokin.info/doc/r6_koubover6_kk3.pdf",
+   "https://mirasapo-plus.go.jp/subsidy/ithojo/",
+   "https://it-shien.smrj.go.jp/pdf/it2026_kaitei_koubo_tsujyo.pdf",
+   "https://it-shien.smrj.go.jp/pdf/it2026_kaitei_koubo_invoice.pdf",
+   "https://it-shien.smrj.go.jp/pdf/it2026_kaitei_koubo_denshi.pdf",
+   "https://it-shien.smrj.go.jp/pdf/it2026_kaitei_koubo_security.pdf",
+   "https://it-shien.smrj.go.jp/pdf/it2026_koubo_fukusu.pdf",
+   "https://mirasapo-plus.go.jp/subsidy/shoryokuka/",
+   "https://shoryokuka.smrj.go.jp/assets/pdf/application_guidelines_catalog.pdf",
+   "https://shoryokuka.smrj.go.jp/assets/pdf/application_guidelines_ippan_08.pdf",
+   "https://mirasapo-plus.go.jp/subsidy/shinjigyoumanufacturing/",
+   "https://shinjigyou-monodukuri.smrj.go.jp/assets/documents/shinmono_application_guidelines_01.pdf",
+   "https://mirasapo-plus.go.jp/subsidy/seityo/",
+   "https://growth-100-oku.smrj.go.jp/documents/subsidy/3rd_kobo.pdf",
+   "https://mirasapo-plus.go.jp/subsidy/syokei/",
+   "https://shoukei-mahojokin.go.jp/assets/documents/r7h/16-succession/requirements_succession_16.pdf",
+   "https://shoukei-mahojokin.go.jp/assets/documents/r7h/16-experts/requirements_experts_16.pdf",
+   "https://shoukei-mahojokin.go.jp/assets/documents/r7h/16-experts/requirements_experts_10bn_16.pdf",
+   "https://shoukei-mahojokin.go.jp/assets/documents/r7h/16-experts/requirements_experts_sb_16.pdf",
+   "https://shoukei-mahojokin.go.jp/assets/documents/r7h/16-challenge/requirements_challenge_16.pdf",
+   "https://shoukei-mahojokin.go.jp/assets/documents/r7h/16-pmi/requirements_pmi_experts_16.pdf",
+   "https://shoukei-mahojokin.go.jp/assets/documents/r7h/16-pmi/requirements_pmi_investment_16.pdf",
+   "https://mirasapo-plus.go.jp/subsidy/manufacturing/",
+   "https://portal.monodukuri-hojo.jp/common/bunsho/ippan/23th/%E5%85%AC%E5%8B%9F%E8%A6%81%E9%A0%98_23%E6%AC%A1%E7%B7%A0%E5%88%87_20260206.pdf",
+   "https://mirasapo-plus.go.jp/subsidy/shinjigyou/",
+   "https://shinjigyou-shinshutsu.smrj.go.jp/docs/shinjigyou_koubo_4.pdf",
+   "https://www.meti.go.jp/"
+  ],
+  "parent": null,
+  "title": "ミラサポplus 補助金・助成金 中小企業支援サイト｜経済産業省 中小企業庁",
+  "type": "html",
+  "url": "https://mirasapo-plus.go.jp/",
+  "入口": "ミラサポplus 国が実施中の補助金一覧（各制度の公募要領へのリンク）",
+  "地域": "全国"
+ },
  "e0ea01211d0d": {
   "depth": 1,
   "etag": "\"32b9f-65df799836279\"",
@@ -37952,6 +38564,20 @@
   "入口": "東京都中小企業振興公社 助成金一覧",
   "地域": "東京都"
  },
+ "eb22af44baaa": {
+  "depth": 1,
+  "etag": "\"8437a35a4c9eb7f745f4b2e3f5f5cf61\"",
+  "fetched_at": "2026-10-30 12:08",
+  "final_url": "https://www.meti.govbot.go.jp/",
+  "last_modified": "Tue, 20 Oct 2026 05:53:52 GMT",
+  "links": [],
+  "parent": "https://mirasapo-plus.go.jp/",
+  "title": "チャットボット",
+  "type": "html",
+  "url": "https://www.meti.govbot.go.jp/",
+  "入口": "ミラサポplus 国が実施中の補助金一覧（各制度の公募要領へのリンク）",
+  "地域": "全国"
+ },
  "eb57be874be1": {
   "depth": 1,
   "etag": "",
@@ -39059,6 +39685,20 @@
   "url": "https://www.tokyo-kosha.or.jp/support/josei/jigyo/innovation_faq.html",
   "入口": "東京都中小企業振興公社 助成金一覧",
   "地域": "東京都"
+ },
+ "f3b28c46baa7": {
+  "depth": 1,
+  "etag": "\"c2ea7-65c9737a3154f\"",
+  "fetched_at": "2026-10-30 12:08",
+  "final_url": "https://growth-100-oku.smrj.go.jp/documents/subsidy/3rd_kobo.pdf",
+  "last_modified": "Tue, 29 Sep 2026 04:00:03 GMT",
+  "links": [],
+  "parent": "https://mirasapo-plus.go.jp/",
+  "title": "",
+  "type": "pdf",
+  "url": "https://growth-100-oku.smrj.go.jp/documents/subsidy/3rd_kobo.pdf",
+  "入口": "ミラサポplus 国が実施中の補助金一覧（各制度の公募要領へのリンク）",
+  "地域": "全国"
  },
  "f3b55ce71fbc": {
   "depth": 2,
@@ -40723,6 +41363,20 @@
   "url": "https://www.tokyo-kosha.or.jp/support/josei/jigyo/shijo.html",
   "入口": "東京都中小企業振興公社 助成金一覧",
   "地域": "東京都"
+ },
+ "fd020d2365e5": {
+  "depth": 1,
+  "etag": "\"e3dbfa5f50d19f78d8928e6a5357db14\"",
+  "fetched_at": "2026-10-30 12:08",
+  "final_url": "https://shoukei-mahojokin.go.jp/assets/documents/r7h/16-challenge/requirements_challenge_16.pdf",
+  "last_modified": "Fri, 04 Sep 2026 06:00:07 GMT",
+  "links": [],
+  "parent": "https://mirasapo-plus.go.jp/",
+  "title": "",
+  "type": "pdf",
+  "url": "https://shoukei-mahojokin.go.jp/assets/documents/r7h/16-challenge/requirements_challenge_16.pdf",
+  "入口": "ミラサポplus 国が実施中の補助金一覧（各制度の公募要領へのリンク）",
+  "地域": "全国"
  },
  "fd08ae5a80ef": {
   "depth": 2,

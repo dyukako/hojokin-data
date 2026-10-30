@@ -1,1 +1,18 @@
-[]
+[
+ {
+  "depth": 0,
+  "error": "HTTP Error 403: Forbidden",
+  "url": "https://mirasapo-plus.go.jp/",
+  "入口": "ミラサポplus 国が実施中の補助金一覧（各制度の公募要領へのリンク）",
+  "入口自体": true,
+  "地域": "全国"
+ },
+ {
+  "depth": 1,
+  "error": "サイズ上限超え",
+  "url": "https://official.jizokukanb.com/wp-content/uploads/2026/10/一般型通常枠_第20回_よくあるご質問.pdf",
+  "入口": "持続化補助金 商工会地区 公式（申請についてページからリンクされた最新回の資料）",
+  "入口自体": false,
+  "地域": "全国"
+ }
+]

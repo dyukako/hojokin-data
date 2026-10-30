@@ -133,61 +133,43 @@
  ],
  "国": [
   {
-   "name": "探索 持続化 一般型 トップ",
+   "name": "持続化補助金＜一般型 通常枠＞（商工会議所地区）事務局 公募要領",
    "url": "https://r6.jizokukahojokin.info/",
-   "depth": 1,
-   "scope": [
-    "https://r6.jizokukahojokin.info/"
-   ]
-  },
-  {
-   "name": "探索 持続化 一般型 応募",
-   "url": "https://r6.jizokukahojokin.info/oubo.php",
    "depth": 1,
    "scope": [
     "https://r6.jizokukahojokin.info/doc/"
    ]
   },
   {
-   "name": "探索 持続化 創業型 トップ",
+   "name": "持続化補助金＜創業型＞ 事務局 公募要領",
    "url": "https://r6.jizokukahojokin.info/sogyo/",
-   "depth": 1,
-   "scope": [
-    "https://r6.jizokukahojokin.info/sogyo/"
-   ]
-  },
-  {
-   "name": "探索 持続化 創業型 応募",
-   "url": "https://r6.jizokukahojokin.info/sogyo/oubo.php",
    "depth": 1,
    "scope": [
     "https://r6.jizokukahojokin.info/sogyo/doc/"
    ]
   },
   {
-   "name": "探索 省力化 カタログ",
+   "name": "中小企業省力化投資補助金（カタログ注文型）資料ダウンロード",
    "url": "https://shoryokuka.smrj.go.jp/catalog/download/",
    "depth": 1,
    "scope": [
-    "https://shoryokuka.smrj.go.jp/catalog/download/",
-    "https://shoryokuka.smrj.go.jp/assets/"
+    "https://shoryokuka.smrj.go.jp/assets/pdf/"
    ]
   },
   {
-   "name": "探索 省力化 一般型",
+   "name": "中小企業省力化投資補助金（一般型）資料ダウンロード",
    "url": "https://shoryokuka.smrj.go.jp/ippan/download/",
    "depth": 1,
    "scope": [
-    "https://shoryokuka.smrj.go.jp/ippan/download/",
-    "https://shoryokuka.smrj.go.jp/assets/"
+    "https://shoryokuka.smrj.go.jp/assets/pdf/"
    ]
   },
   {
-   "name": "探索 デジタル化AI",
+   "name": "デジタル化・AI導入補助金 資料ダウンロード（公募要領）",
    "url": "https://it-shien.smrj.go.jp/download/",
    "depth": 1,
    "scope": [
-    "https://it-shien.smrj.go.jp/"
+    "https://it-shien.smrj.go.jp/pdf/"
    ]
   }
  ]

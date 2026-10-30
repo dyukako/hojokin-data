@@ -3,7 +3,7 @@
   "depth": 1,
   "error": "サイズ上限超え",
   "url": "https://r6.jizokukahojokin.info/doc/r6_koubomanual_ip0306.pdf",
-  "入口": "探索 持続化 一般型 トップ",
+  "入口": "持続化補助金＜一般型 通常枠＞（商工会議所地区）事務局 公募要領",
   "入口自体": false,
   "地域": "国"
  },
@@ -11,15 +11,7 @@
   "depth": 1,
   "error": "サイズ上限超え",
   "url": "https://r6.jizokukahojokin.info/doc/r6_koubomanual_ip1001.pdf",
-  "入口": "探索 持続化 一般型 トップ",
-  "入口自体": false,
-  "地域": "国"
- },
- {
-  "depth": 1,
-  "error": "サイズ上限超え",
-  "url": "https://r6.jizokukahojokin.info/doc/r6_koubomanual_ip0306.pdf",
-  "入口": "探索 持続化 一般型 応募",
+  "入口": "持続化補助金＜一般型 通常枠＞（商工会議所地区）事務局 公募要領",
   "入口自体": false,
   "地域": "国"
  },
@@ -27,7 +19,7 @@
   "depth": 1,
   "error": "サイズ上限超え",
   "url": "https://shoryokuka.smrj.go.jp/assets/pdf/application_manual_catalog.pdf",
-  "入口": "探索 省力化 カタログ",
+  "入口": "中小企業省力化投資補助金（カタログ注文型）資料ダウンロード",
   "入口自体": false,
   "地域": "国"
  },
@@ -35,7 +27,7 @@
   "depth": 1,
   "error": "サイズ上限超え",
   "url": "https://shoryokuka.smrj.go.jp/assets/pdf/implementation_manual.pdf",
-  "入口": "探索 省力化 カタログ",
+  "入口": "中小企業省力化投資補助金（カタログ注文型）資料ダウンロード",
   "入口自体": false,
   "地域": "国"
  },
@@ -43,7 +35,7 @@
   "depth": 1,
   "error": "サイズ上限超え",
   "url": "https://it-shien.smrj.go.jp/pdf/it2026_manual_kofu.pdf",
-  "入口": "探索 デジタル化AI",
+  "入口": "デジタル化・AI導入補助金 資料ダウンロード（公募要領）",
   "入口自体": false,
   "地域": "国"
  },
@@ -51,7 +43,7 @@
   "depth": 1,
   "error": "サイズ上限超え",
   "url": "https://it-shien.smrj.go.jp/pdf/it2026_manual_jisseki.pdf",
-  "入口": "探索 デジタル化AI",
+  "入口": "デジタル化・AI導入補助金 資料ダウンロード（公募要領）",
   "入口自体": false,
   "地域": "国"
  }

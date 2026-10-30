@@ -130,5 +130,65 @@
     "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/"
    ]
   }
+ ],
+ "国": [
+  {
+   "name": "探索 持続化 一般型 トップ",
+   "url": "https://r6.jizokukahojokin.info/",
+   "depth": 1,
+   "scope": [
+    "https://r6.jizokukahojokin.info/"
+   ]
+  },
+  {
+   "name": "探索 持続化 一般型 応募",
+   "url": "https://r6.jizokukahojokin.info/oubo.php",
+   "depth": 1,
+   "scope": [
+    "https://r6.jizokukahojokin.info/doc/"
+   ]
+  },
+  {
+   "name": "探索 持続化 創業型 トップ",
+   "url": "https://r6.jizokukahojokin.info/sogyo/",
+   "depth": 1,
+   "scope": [
+    "https://r6.jizokukahojokin.info/sogyo/"
+   ]
+  },
+  {
+   "name": "探索 持続化 創業型 応募",
+   "url": "https://r6.jizokukahojokin.info/sogyo/oubo.php",
+   "depth": 1,
+   "scope": [
+    "https://r6.jizokukahojokin.info/sogyo/doc/"
+   ]
+  },
+  {
+   "name": "探索 省力化 カタログ",
+   "url": "https://shoryokuka.smrj.go.jp/catalog/download/",
+   "depth": 1,
+   "scope": [
+    "https://shoryokuka.smrj.go.jp/catalog/download/",
+    "https://shoryokuka.smrj.go.jp/assets/"
+   ]
+  },
+  {
+   "name": "探索 省力化 一般型",
+   "url": "https://shoryokuka.smrj.go.jp/ippan/download/",
+   "depth": 1,
+   "scope": [
+    "https://shoryokuka.smrj.go.jp/ippan/download/",
+    "https://shoryokuka.smrj.go.jp/assets/"
+   ]
+  },
+  {
+   "name": "探索 デジタル化AI",
+   "url": "https://it-shien.smrj.go.jp/download/",
+   "depth": 1,
+   "scope": [
+    "https://it-shien.smrj.go.jp/"
+   ]
+  }
  ]
 }

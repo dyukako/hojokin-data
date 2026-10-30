@@ -180,15 +180,19 @@ def crawl_source(area, src, index, failed, today, seen_keys):
             # 前回から変わっていない。ファイルはそのまま、前回拾ったリンクで先へ進む
             prev["fetched_at"] = today
             prev["depth"] = min(prev.get("depth", depth), depth)
+            prev["入口"] = src["name"]
             seen_keys.add(k)
             got += 1
             unchanged += 1
             if prev["type"] == "html" and depth < depth_max:
-                for u in prev.get("links", []):
+                # sources.json の scope が前回から変わっていることがあるので、今の scope で絞り直す
+                prev["links"] = [u for u in prev.get("links", []) if not excluded(u, excludes) and
+                                 (in_scope(u, scopes) or (ext_ok and depth == 0 and not same_site(u, entry)))]
+                for u in prev["links"]:
                     n = norm(u)
-                    if n not in seen and not excluded(u, excludes):
+                    if n not in seen:
                         seen.add(n)
-                        queue.append((u, depth + 1, url))
+                        queue.append((u, depth + 1 if in_scope(u, scopes) else depth_max, url))
             continue
         except FetchError as e:
             failed.append({"地域": area, "入口": src["name"], "url": url, "depth": depth, "error": str(e),

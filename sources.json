@@ -130,5 +130,19 @@
     "https://www.city.shibuya.tokyo.jp/jigyosha/shoko-rodo-sodan/"
    ]
   }
+ ],
+ "全国": [
+  {
+   "name": "ミラサポplus 国が実施中の補助金一覧（各制度の公募要領へのリンク）",
+   "url": "https://mirasapo-plus.go.jp/",
+   "depth": 1,
+   "scope": [
+    "https://mirasapo-plus.go.jp/subsidy/"
+   ],
+   "follow_external": true,
+   "exclude": [
+    "^(youtube\\.com|mobile\\.twitter\\.com|gmpg\\.org)"
+   ]
+  }
  ]
 }

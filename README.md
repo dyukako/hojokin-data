@@ -54,6 +54,7 @@ Actions の「県・市ページ収集」を Run workflow（area にその地域
 
 ```
 knowledge/known_programs.md     毎年続く主要制度（持続化・省力化・デジタル化・AI導入など）の、概要を読んでも分からない要件の要点
+knowledge/check_known.py        known_programs.md の「確認済みの回・版」と pages/全国/ の公募要領の回・版を比べる（スキルはこれを呼ぶ）
 ```
 
 スキル `hojokin-screening` が実行のたびにこのリポジトリごと取って読む。公募要領の版が変わったら

@@ -165,5 +165,23 @@
    ],
    "max_pages": 30
   }
+ ],
+ "北区": [
+  {
+   "name": "北区 企業支援（補助金・助成・融資、創業、経営支援）",
+   "url": "https://www.city.kita.lg.jp/business/business-support/index.html",
+   "depth": 2,
+   "scope": [
+    "https://www.city.kita.lg.jp/business/business-support/"
+   ]
+  },
+  {
+   "name": "北区 産業（商業振興・ものづくり振興の助成）",
+   "url": "https://www.city.kita.lg.jp/business/industry/index.html",
+   "depth": 3,
+   "scope": [
+    "https://www.city.kita.lg.jp/business/industry/"
+   ]
+  }
  ]
 }
